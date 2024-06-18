@@ -39,6 +39,24 @@ Kopā izmantojām 13 loģisko kļūdu marķējumus (labels), kuri apskatāmi 'Da
     "intentional": "[MSK1] knows [MSK2] is incorrect. [MSK1] still claim that [MSK2] is correct using an incorrect argument."
   }
 ```
+Izmantotie ievades dati tika ņemti no [saite uz izmantoto datu kopu](https://github.com/tmakesense/logical-fallacy/blob/main/dataset-fixed/edu_all_fixed.csv). Tie ir pamatdokumenta dati, kuri ir pārveidoti un uzlaboti, labojot dažus oriģināldatu [(saite uz oriģināldatiem)](https://github.com/causalNLP/logical-fallacy/blob/main/data/edu_all.csv) defektus [(apraksts par labojumiem)](https://www.logical-fallacy.com/articles/dataset-review/).
+### Izmantotās datu kopas piemērs
+```csv
+updated_label,original_url,old_label,source_article,explanations,rationale
+faulty generalization,https://quizizz.com/admin/quiz/5f948dcbedafcd001e0c5506/logical-fallacies,hasty generalization,"""Annie must like Starbucks because all white girls like Starbucks.""",,
+...
+...
+```
+Tad ievades datu kopā `updated_label` kolonā esošās loģiskās kļūdas tiek aizstātas ar attiecīgo mapping.
+### Mapped datu kopas piemērs
+```
+updated_label,original_url,old_label,source_article,explanations,rationale
+"[MSK1] has attribute [MSK2]. [MSK1] is a subset of [MSK3]. Therefore, all [MSK3] has attribute [MSK2].","https://quizizz.com/admin/quiz/5f948dcbedafcd001e0c5506/logical-fallacies","hasty generalization","""Annie must like Starbucks because all white girls like Starbucks.""","",""
+...
+...
+```
+Tālāk visi kolonā `source_article` esošie teikumi tika aizmaskēti pēc zemāk redzāmās diagrammas principa.
+
 ### Mūsu rezultāti
 ...
 
