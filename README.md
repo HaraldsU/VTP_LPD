@@ -49,13 +49,32 @@ faulty generalization,https://quizizz.com/admin/quiz/5f948dcbedafcd001e0c5506/lo
 ```
 Tad ievades datu kopā `updated_label` kolonā esošās loģiskās kļūdas tiek aizstātas ar attiecīgo mapping.
 ### Mapped datu kopas piemērs
-```
+```csv
 updated_label,original_url,old_label,source_article,explanations,rationale
 "[MSK1] has attribute [MSK2]. [MSK1] is a subset of [MSK3]. Therefore, all [MSK3] has attribute [MSK2].","https://quizizz.com/admin/quiz/5f948dcbedafcd001e0c5506/logical-fallacies","hasty generalization","""Annie must like Starbucks because all white girls like Starbucks.""","",""
 ...
 ...
 ```
 Tālāk visi kolonā `source_article` esošie teikumi tika aizmaskēti pēc zemāk redzāmās diagrammas principa.
+
+![Masking pipeline diagramma](Results/Premisas_maskesana.drawio.svg)
+
+### Maskētās datu kopas piemērs
+```csv
+updated_label,source_article
+[MSK1] has attribute [MSK2]. [MSK1] is a subset of [MSK3]. Therefore, all [MSK3] has attribute [MSK2]., Masked text: Annie must [MSK2] [MSK1] because all white girls [MSK2] [MSK1]. 
+...
+...
+```
+
+Tad no maskētās datu kopa kolonas `source_article` tiek padoti maskētie teikumi zero-shot klasifikatoram, kurš mēģina noteikt dotajam teikumam atbilstošako marķējumu no visiem 13 marķējumiem.
+```csv
+Enter a text to classify: Annie must like Starbucks because all white girls like Starbucks.
+
+Masked text: Annie must [MSK2] [MSK1] because all white girls [MSK2] [MSK1]. 
+
+Prediction: [MSK1] is true because of [MSK2]. [MSK2] is true because of [MSK1].
+```
 
 ### Mūsu rezultāti
 ...
