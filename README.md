@@ -20,7 +20,7 @@ Visos dokumentos izmantojot zero-shot klasifikatorus, bez fine-tuning, rezultāt
 Izmantojot few-shot klasifikatorus, ar fine-tuning rezultāti ir daudz labāki, pat ~≥90%.
 
 ## Prototips: demonstrācija, novērtēšana, datu un koda pieejamība (0-4 punkti)
-### Process
+### Process:
 Kopā izmantojām 13 loģisko kļūdu marķējumus (labels), kuri apskatāmi 'Data/mappings.json' failā:
 ```json
 {
@@ -40,7 +40,7 @@ Kopā izmantojām 13 loģisko kļūdu marķējumus (labels), kuri apskatāmi 'Da
   }
 ```
 Izmantotie ievades dati tika ņemti no [saite uz izmantoto datu kopu](https://github.com/tmakesense/logical-fallacy/blob/main/dataset-fixed/edu_all_fixed.csv). Tie ir pamatdokumenta dati, kuri ir pārveidoti un uzlaboti, labojot dažus oriģināldatu [(saite uz oriģināldatiem)](https://github.com/causalNLP/logical-fallacy/blob/main/data/edu_all.csv) defektus [(apraksts par labojumiem)](https://www.logical-fallacy.com/articles/dataset-review/).
-### Izmantotās datu kopas piemērs
+### Izmantotās datu kopas piemērs:
 ```csv
 updated_label,original_url,old_label,source_article,explanations,rationale
 faulty generalization,https://quizizz.com/admin/quiz/5f948dcbedafcd001e0c5506/logical-fallacies,hasty generalization,"""Annie must like Starbucks because all white girls like Starbucks.""",,
@@ -48,7 +48,7 @@ faulty generalization,https://quizizz.com/admin/quiz/5f948dcbedafcd001e0c5506/lo
 ...
 ```
 Tad ievades datu kopā `updated_label` kolonā esošās loģiskās kļūdas tiek aizstātas ar attiecīgo mapping.
-### Mapped datu kopas piemērs
+### Mapped datu kopas piemērs:
 ```csv
 updated_label,original_url,old_label,source_article,explanations,rationale
 "[MSK1] has attribute [MSK2]. [MSK1] is a subset of [MSK3]. Therefore, all [MSK3] has attribute [MSK2].","https://quizizz.com/admin/quiz/5f948dcbedafcd001e0c5506/logical-fallacies","hasty generalization","""Annie must like Starbucks because all white girls like Starbucks.""","",""
@@ -59,7 +59,7 @@ Tālāk visi kolonā `source_article` esošie teikumi tika aizmaskēti pēc zem�
 
 ![Masking pipeline diagramma](Results/Premisas_maskesana.drawio2.png)
 
-### Maskētās datu kopas piemērs
+### Maskētās datu kopas piemērs:
 ```csv
 updated_label,source_article
 [MSK1] has attribute [MSK2]. [MSK1] is a subset of [MSK3]. Therefore, all [MSK3] has attribute [MSK2]., Masked text: Annie must [MSK2] [MSK1] because all white girls [MSK2] [MSK1]. 
@@ -76,7 +76,7 @@ Masked text: Annie must [MSK2] [MSK1] because all white girls [MSK2] [MSK1].
 Prediction: [MSK1] is true because of [MSK2]. [MSK2] is true because of [MSK1].
 ```
 
-### Mūsu rezultāti
+### Mūsu rezultāti:
 ...
 
 ## Prezentācija un atbildes uz jautājumiem (0-2 punkti)
