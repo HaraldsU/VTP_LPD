@@ -57,7 +57,7 @@ updated_label,original_url,old_label,source_article,explanations,rationale
 ```
 Tālāk visi kolonā `source_article` esošie teikumi tika aizmaskēti pēc zemāk redzāmās diagrammas principa.
 
-![Masking pipeline diagramma](Results/Premisas_maskesana.drawio.svg)
+![Masking pipeline diagramma](Results/Premisas_maskesana.drawio2.png)
 
 ### Maskētās datu kopas piemērs
 ```csv
