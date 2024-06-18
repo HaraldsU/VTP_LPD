@@ -8,7 +8,7 @@ Paulis Kristofers Siks (ps21049)
 **Loģikas "kļūdu" noteikšana​**
 
 ### Saistība ar valodu tehnoloģijām
-Loģisko kļūdu noteikšana teikumā ir pietiekami sarežģīts uzdevums, kura risinājumā jāveido pipelines, kurš sevī iekļauj ...
+...
 
 ## Īss pārskats par jomā paveikto, jaunākie sasniegumi (0-2 punkti)
 ### Aktuālie dokumenti:
@@ -21,8 +21,8 @@ Izmantojot few-shot klasifikatorus, ar fine-tuning rezultāti ir daudz labāki, 
 
 ## Prototips: demonstrācija, novērtēšana, datu un koda pieejamība (0-4 punkti)
 ### Mūsu rezultāti
-
+...
 
 ## Prezentācija un atbildes uz jautājumiem (0-2 punkti)
 ### Links uz prezentāciju:
-
+...
