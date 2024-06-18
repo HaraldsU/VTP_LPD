@@ -7,7 +7,7 @@ Paulis Kristofers Siks (ps21049)
 ### Izvēlētā tēma:
 **Loģikas "kļūdu" noteikšana​**
 
-### Saistība ar valodu tehnoloģijām
+### Saistība ar valodu tehnoloģijām:
 Izvēlētā tēma ir fundamentāli saistīta ar valodu tehnoloģijām un valodniecību, jo ievade ir jebkāds cilvēkam lasāms teksts angļu valodā, un mērķis ir klasificēt teikumā esošo loģisko kļūdu.
 
 ## Īss pārskats par jomā paveikto, jaunākie sasniegumi (0-2 punkti)
