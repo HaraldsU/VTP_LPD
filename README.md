@@ -131,4 +131,4 @@ fallacy of credibility       0.41      0.12      0.18       126
 
 ## Prezentācija un atbildes uz jautājumiem (0-2 punkti)
 ### Links uz prezentāciju:
-...
+[Prezentācija](Results/VTP_Final_Prezentacija.pptx)
