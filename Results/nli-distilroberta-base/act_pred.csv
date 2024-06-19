@@ -1,0 +1,2211 @@
+,actual,prediction
+0,ad hominem,fallacy of relevance
+1,ad hominem,fallacy of extension
+2,ad hominem,fallacy of extension
+3,ad hominem,ad hominem
+4,ad hominem,ad hominem
+5,ad hominem,fallacy of logic
+6,ad hominem,ad hominem
+7,ad hominem,ad hominem
+8,ad hominem,fallacy of relevance
+9,ad hominem,circular reasoning
+10,ad hominem,fallacy of logic
+11,ad hominem,fallacy of relevance
+12,ad hominem,fallacy of relevance
+13,ad hominem,ad hominem
+14,ad hominem,fallacy of relevance
+15,ad hominem,fallacy of relevance
+16,ad hominem,ad hominem
+17,ad hominem,fallacy of extension
+18,ad hominem,fallacy of relevance
+19,ad hominem,false causality
+20,ad hominem,fallacy of relevance
+21,ad hominem,false causality
+22,ad hominem,ad hominem
+23,ad hominem,fallacy of relevance
+24,ad hominem,ad hominem
+25,ad hominem,fallacy of relevance
+26,ad hominem,fallacy of extension
+27,ad hominem,ad hominem
+28,ad hominem,fallacy of relevance
+29,ad hominem,ad hominem
+30,ad hominem,fallacy of relevance
+31,ad hominem,fallacy of relevance
+32,ad hominem,fallacy of relevance
+33,ad hominem,fallacy of logic
+34,ad hominem,ad hominem
+35,ad hominem,ad hominem
+36,ad hominem,fallacy of logic
+37,ad hominem,ad hominem
+38,ad hominem,equivocation
+39,ad hominem,circular reasoning
+40,ad hominem,fallacy of relevance
+41,ad hominem,fallacy of relevance
+42,ad hominem,ad hominem
+43,ad hominem,fallacy of relevance
+44,ad hominem,equivocation
+45,ad hominem,ad hominem
+46,ad hominem,circular reasoning
+47,ad hominem,equivocation
+48,ad hominem,fallacy of relevance
+49,ad hominem,fallacy of relevance
+50,ad hominem,circular reasoning
+51,ad hominem,equivocation
+52,ad hominem,fallacy of relevance
+53,ad hominem,ad hominem
+54,ad hominem,ad hominem
+55,ad hominem,fallacy of logic
+56,ad hominem,fallacy of relevance
+57,ad hominem,circular reasoning
+58,ad hominem,fallacy of relevance
+59,ad hominem,circular reasoning
+60,ad hominem,fallacy of relevance
+61,ad hominem,fallacy of extension
+62,ad hominem,fallacy of relevance
+63,ad hominem,fallacy of relevance
+64,ad hominem,fallacy of relevance
+65,ad hominem,ad hominem
+66,ad hominem,ad hominem
+67,ad hominem,fallacy of relevance
+68,ad hominem,ad hominem
+69,ad hominem,fallacy of logic
+70,ad hominem,ad hominem
+71,ad hominem,fallacy of logic
+72,ad hominem,equivocation
+73,ad hominem,ad hominem
+74,ad hominem,fallacy of relevance
+75,ad hominem,fallacy of relevance
+76,ad hominem,circular reasoning
+77,ad hominem,circular reasoning
+78,ad hominem,fallacy of logic
+79,ad hominem,circular reasoning
+80,ad hominem,fallacy of logic
+81,ad hominem,fallacy of relevance
+82,ad hominem,ad hominem
+83,ad hominem,ad hominem
+84,ad hominem,equivocation
+85,ad hominem,equivocation
+86,ad hominem,fallacy of relevance
+87,ad hominem,fallacy of relevance
+88,ad hominem,ad hominem
+89,ad hominem,circular reasoning
+90,ad hominem,fallacy of relevance
+91,ad hominem,fallacy of relevance
+92,ad hominem,fallacy of extension
+93,ad hominem,ad hominem
+94,ad hominem,fallacy of relevance
+95,ad hominem,fallacy of relevance
+96,ad hominem,ad hominem
+97,ad hominem,fallacy of relevance
+98,ad hominem,equivocation
+99,ad hominem,ad hominem
+100,ad hominem,circular reasoning
+101,ad hominem,fallacy of relevance
+102,ad hominem,ad hominem
+103,ad hominem,equivocation
+104,ad hominem,equivocation
+105,ad hominem,fallacy of relevance
+106,ad hominem,fallacy of logic
+107,ad hominem,circular reasoning
+108,ad hominem,fallacy of logic
+109,ad hominem,ad hominem
+110,ad hominem,ad hominem
+111,ad hominem,fallacy of logic
+112,ad hominem,fallacy of relevance
+113,ad hominem,ad hominem
+114,ad hominem,fallacy of relevance
+115,ad hominem,ad hominem
+116,ad hominem,ad hominem
+117,ad hominem,fallacy of logic
+118,ad hominem,circular reasoning
+119,ad hominem,fallacy of relevance
+120,ad hominem,circular reasoning
+121,ad hominem,equivocation
+122,ad hominem,false causality
+123,ad hominem,ad hominem
+124,ad hominem,ad hominem
+125,ad hominem,circular reasoning
+126,ad hominem,equivocation
+127,ad hominem,ad hominem
+128,ad hominem,ad hominem
+129,ad hominem,circular reasoning
+130,ad hominem,fallacy of logic
+131,ad hominem,false causality
+132,ad hominem,false causality
+133,ad hominem,fallacy of logic
+134,ad hominem,fallacy of relevance
+135,ad hominem,ad hominem
+136,ad hominem,false causality
+137,ad hominem,ad hominem
+138,ad hominem,circular reasoning
+139,ad hominem,fallacy of relevance
+140,ad hominem,fallacy of logic
+141,ad hominem,fallacy of relevance
+142,ad hominem,ad hominem
+143,ad hominem,fallacy of relevance
+144,ad hominem,fallacy of relevance
+145,ad hominem,fallacy of relevance
+146,ad hominem,ad hominem
+147,ad hominem,false causality
+148,ad hominem,fallacy of relevance
+149,ad hominem,circular reasoning
+150,ad hominem,ad hominem
+151,ad hominem,fallacy of extension
+152,ad hominem,fallacy of relevance
+153,ad hominem,fallacy of relevance
+154,ad hominem,false causality
+155,ad hominem,fallacy of relevance
+156,ad hominem,fallacy of logic
+157,ad hominem,circular reasoning
+158,ad hominem,ad hominem
+159,ad hominem,equivocation
+160,ad hominem,false causality
+161,ad hominem,equivocation
+162,ad hominem,fallacy of relevance
+163,ad hominem,equivocation
+164,ad hominem,circular reasoning
+165,ad hominem,circular reasoning
+166,ad hominem,fallacy of relevance
+167,ad hominem,ad hominem
+168,ad hominem,fallacy of logic
+169,ad hominem,fallacy of relevance
+170,ad hominem,fallacy of logic
+171,ad hominem,equivocation
+172,ad hominem,circular reasoning
+173,ad hominem,circular reasoning
+174,ad hominem,equivocation
+175,ad hominem,ad hominem
+176,ad hominem,false causality
+177,ad hominem,fallacy of relevance
+178,ad hominem,false causality
+179,ad hominem,circular reasoning
+180,ad hominem,circular reasoning
+181,ad hominem,fallacy of relevance
+182,ad hominem,ad hominem
+183,ad hominem,fallacy of relevance
+184,ad hominem,ad hominem
+185,ad hominem,equivocation
+186,ad hominem,equivocation
+187,ad hominem,equivocation
+188,ad hominem,ad hominem
+189,ad hominem,fallacy of relevance
+190,ad hominem,fallacy of extension
+191,ad hominem,fallacy of logic
+192,ad hominem,circular reasoning
+193,ad hominem,ad hominem
+194,ad hominem,ad hominem
+195,ad hominem,fallacy of logic
+196,ad hominem,fallacy of relevance
+197,ad hominem,equivocation
+198,ad hominem,fallacy of relevance
+199,ad hominem,fallacy of logic
+200,ad hominem,fallacy of relevance
+201,ad hominem,equivocation
+202,ad hominem,ad hominem
+203,ad hominem,false causality
+204,ad hominem,fallacy of relevance
+205,ad hominem,fallacy of logic
+206,ad hominem,equivocation
+207,ad hominem,fallacy of logic
+208,ad hominem,equivocation
+209,ad hominem,fallacy of logic
+210,ad hominem,equivocation
+211,ad hominem,fallacy of logic
+212,ad hominem,fallacy of relevance
+213,ad hominem,fallacy of logic
+214,ad hominem,equivocation
+215,ad hominem,fallacy of relevance
+216,ad hominem,circular reasoning
+217,ad hominem,fallacy of extension
+218,ad hominem,fallacy of relevance
+219,ad hominem,fallacy of logic
+220,ad hominem,fallacy of relevance
+221,ad hominem,fallacy of relevance
+222,ad hominem,ad hominem
+223,ad hominem,fallacy of relevance
+224,ad hominem,circular reasoning
+225,ad hominem,ad hominem
+226,ad hominem,fallacy of relevance
+227,ad hominem,fallacy of relevance
+228,ad hominem,fallacy of extension
+229,ad hominem,ad hominem
+230,ad hominem,fallacy of relevance
+231,ad hominem,equivocation
+232,ad hominem,fallacy of relevance
+233,ad hominem,fallacy of logic
+234,ad hominem,fallacy of logic
+235,ad hominem,ad hominem
+236,ad hominem,ad hominem
+237,ad hominem,equivocation
+238,ad hominem,fallacy of logic
+239,ad hominem,fallacy of relevance
+240,ad hominem,fallacy of relevance
+241,ad hominem,circular reasoning
+242,ad hominem,equivocation
+243,ad hominem,fallacy of extension
+244,ad hominem,fallacy of logic
+245,ad hominem,circular reasoning
+246,ad hominem,fallacy of logic
+247,ad hominem,equivocation
+248,ad hominem,fallacy of relevance
+249,ad hominem,fallacy of extension
+250,ad hominem,circular reasoning
+251,ad hominem,ad hominem
+252,ad hominem,fallacy of extension
+253,ad hominem,ad hominem
+254,ad hominem,ad hominem
+255,ad hominem,fallacy of relevance
+256,ad hominem,equivocation
+257,ad hominem,circular reasoning
+258,ad hominem,fallacy of logic
+259,ad hominem,equivocation
+260,ad hominem,equivocation
+261,ad hominem,equivocation
+262,ad hominem,circular reasoning
+263,ad hominem,circular reasoning
+264,ad populum,ad populum
+265,ad populum,ad hominem
+266,ad populum,circular reasoning
+267,ad populum,fallacy of logic
+268,ad populum,ad populum
+269,ad populum,ad populum
+270,ad populum,circular reasoning
+271,ad populum,ad populum
+272,ad populum,circular reasoning
+273,ad populum,circular reasoning
+274,ad populum,circular reasoning
+275,ad populum,equivocation
+276,ad populum,circular reasoning
+277,ad populum,circular reasoning
+278,ad populum,circular reasoning
+279,ad populum,fallacy of logic
+280,ad populum,fallacy of logic
+281,ad populum,circular reasoning
+282,ad populum,circular reasoning
+283,ad populum,fallacy of extension
+284,ad populum,fallacy of logic
+285,ad populum,circular reasoning
+286,ad populum,fallacy of logic
+287,ad populum,circular reasoning
+288,ad populum,circular reasoning
+289,ad populum,false dilemma
+290,ad populum,circular reasoning
+291,ad populum,fallacy of logic
+292,ad populum,fallacy of logic
+293,ad populum,fallacy of logic
+294,ad populum,ad populum
+295,ad populum,ad hominem
+296,ad populum,circular reasoning
+297,ad populum,circular reasoning
+298,ad populum,ad populum
+299,ad populum,fallacy of logic
+300,ad populum,ad populum
+301,ad populum,ad populum
+302,ad populum,fallacy of logic
+303,ad populum,circular reasoning
+304,ad populum,fallacy of logic
+305,ad populum,ad hominem
+306,ad populum,fallacy of logic
+307,ad populum,ad populum
+308,ad populum,fallacy of credibility
+309,ad populum,circular reasoning
+310,ad populum,fallacy of logic
+311,ad populum,circular reasoning
+312,ad populum,fallacy of logic
+313,ad populum,fallacy of relevance
+314,ad populum,fallacy of logic
+315,ad populum,fallacy of logic
+316,ad populum,circular reasoning
+317,ad populum,ad populum
+318,ad populum,fallacy of logic
+319,ad populum,fallacy of logic
+320,ad populum,circular reasoning
+321,ad populum,circular reasoning
+322,ad populum,circular reasoning
+323,ad populum,ad populum
+324,ad populum,circular reasoning
+325,ad populum,equivocation
+326,ad populum,ad hominem
+327,ad populum,ad populum
+328,ad populum,fallacy of logic
+329,ad populum,circular reasoning
+330,ad populum,ad populum
+331,ad populum,false causality
+332,ad populum,circular reasoning
+333,ad populum,equivocation
+334,ad populum,circular reasoning
+335,ad populum,ad populum
+336,ad populum,fallacy of logic
+337,ad populum,fallacy of logic
+338,ad populum,fallacy of logic
+339,ad populum,circular reasoning
+340,ad populum,fallacy of extension
+341,ad populum,fallacy of logic
+342,ad populum,equivocation
+343,ad populum,fallacy of logic
+344,ad populum,fallacy of relevance
+345,ad populum,circular reasoning
+346,ad populum,circular reasoning
+347,ad populum,equivocation
+348,ad populum,fallacy of logic
+349,ad populum,fallacy of logic
+350,ad populum,fallacy of relevance
+351,ad populum,fallacy of relevance
+352,ad populum,circular reasoning
+353,ad populum,ad populum
+354,ad populum,equivocation
+355,ad populum,fallacy of logic
+356,ad populum,circular reasoning
+357,ad populum,circular reasoning
+358,ad populum,fallacy of logic
+359,ad populum,circular reasoning
+360,ad populum,fallacy of credibility
+361,ad populum,circular reasoning
+362,ad populum,fallacy of credibility
+363,ad populum,equivocation
+364,ad populum,circular reasoning
+365,ad populum,fallacy of logic
+366,ad populum,equivocation
+367,ad populum,fallacy of logic
+368,ad populum,circular reasoning
+369,ad populum,circular reasoning
+370,ad populum,fallacy of logic
+371,ad populum,circular reasoning
+372,ad populum,ad populum
+373,ad populum,ad populum
+374,ad populum,fallacy of logic
+375,ad populum,circular reasoning
+376,ad populum,ad populum
+377,ad populum,fallacy of logic
+378,ad populum,fallacy of relevance
+379,ad populum,ad populum
+380,ad populum,circular reasoning
+381,ad populum,fallacy of logic
+382,ad populum,fallacy of logic
+383,ad populum,fallacy of logic
+384,ad populum,circular reasoning
+385,ad populum,circular reasoning
+386,ad populum,circular reasoning
+387,ad populum,circular reasoning
+388,ad populum,circular reasoning
+389,ad populum,circular reasoning
+390,ad populum,circular reasoning
+391,ad populum,circular reasoning
+392,ad populum,fallacy of logic
+393,ad populum,circular reasoning
+394,ad populum,fallacy of logic
+395,ad populum,circular reasoning
+396,ad populum,circular reasoning
+397,ad populum,fallacy of logic
+398,ad populum,fallacy of logic
+399,ad populum,circular reasoning
+400,ad populum,circular reasoning
+401,ad populum,circular reasoning
+402,ad populum,fallacy of logic
+403,ad populum,fallacy of relevance
+404,ad populum,equivocation
+405,ad populum,circular reasoning
+406,ad populum,circular reasoning
+407,ad populum,circular reasoning
+408,ad populum,circular reasoning
+409,ad populum,circular reasoning
+410,ad populum,fallacy of logic
+411,ad populum,fallacy of logic
+412,ad populum,false causality
+413,ad populum,circular reasoning
+414,ad populum,circular reasoning
+415,ad populum,circular reasoning
+416,ad populum,circular reasoning
+417,ad populum,circular reasoning
+418,ad populum,circular reasoning
+419,ad populum,circular reasoning
+420,ad populum,false causality
+421,ad populum,fallacy of relevance
+422,ad populum,false causality
+423,ad populum,equivocation
+424,ad populum,ad populum
+425,ad populum,fallacy of logic
+426,ad populum,circular reasoning
+427,ad populum,circular reasoning
+428,ad populum,circular reasoning
+429,ad populum,circular reasoning
+430,ad populum,fallacy of logic
+431,ad populum,circular reasoning
+432,ad populum,circular reasoning
+433,ad populum,fallacy of logic
+434,ad populum,fallacy of logic
+435,ad populum,circular reasoning
+436,ad populum,circular reasoning
+437,ad populum,circular reasoning
+438,ad populum,fallacy of logic
+439,ad populum,fallacy of logic
+440,ad populum,circular reasoning
+441,ad populum,fallacy of relevance
+442,ad populum,circular reasoning
+443,ad populum,fallacy of logic
+444,ad populum,ad populum
+445,ad populum,fallacy of logic
+446,ad populum,fallacy of logic
+447,ad populum,false causality
+448,ad populum,ad populum
+449,ad populum,circular reasoning
+450,ad populum,fallacy of logic
+451,ad populum,circular reasoning
+452,ad populum,circular reasoning
+453,ad populum,circular reasoning
+454,ad populum,faulty generalization
+455,ad populum,circular reasoning
+456,ad populum,ad populum
+457,ad populum,fallacy of relevance
+458,ad populum,fallacy of relevance
+459,ad populum,ad populum
+460,ad populum,ad populum
+461,ad populum,ad populum
+462,ad populum,fallacy of logic
+463,ad populum,circular reasoning
+464,ad populum,fallacy of logic
+465,ad populum,equivocation
+466,ad populum,fallacy of logic
+467,ad populum,circular reasoning
+468,ad populum,fallacy of logic
+469,ad populum,equivocation
+470,ad populum,ad populum
+471,appeal to emotion,fallacy of relevance
+472,appeal to emotion,fallacy of logic
+473,appeal to emotion,circular reasoning
+474,appeal to emotion,circular reasoning
+475,appeal to emotion,fallacy of logic
+476,appeal to emotion,fallacy of logic
+477,appeal to emotion,false causality
+478,appeal to emotion,fallacy of logic
+479,appeal to emotion,fallacy of logic
+480,appeal to emotion,fallacy of relevance
+481,appeal to emotion,fallacy of logic
+482,appeal to emotion,circular reasoning
+483,appeal to emotion,fallacy of logic
+484,appeal to emotion,circular reasoning
+485,appeal to emotion,fallacy of relevance
+486,appeal to emotion,circular reasoning
+487,appeal to emotion,circular reasoning
+488,appeal to emotion,fallacy of relevance
+489,appeal to emotion,equivocation
+490,appeal to emotion,fallacy of logic
+491,appeal to emotion,equivocation
+492,appeal to emotion,fallacy of extension
+493,appeal to emotion,fallacy of logic
+494,appeal to emotion,ad hominem
+495,appeal to emotion,ad hominem
+496,appeal to emotion,circular reasoning
+497,appeal to emotion,ad hominem
+498,appeal to emotion,fallacy of logic
+499,appeal to emotion,fallacy of logic
+500,appeal to emotion,fallacy of relevance
+501,appeal to emotion,fallacy of extension
+502,appeal to emotion,false causality
+503,appeal to emotion,ad hominem
+504,appeal to emotion,circular reasoning
+505,appeal to emotion,ad hominem
+506,appeal to emotion,fallacy of logic
+507,appeal to emotion,false causality
+508,appeal to emotion,fallacy of extension
+509,appeal to emotion,fallacy of logic
+510,appeal to emotion,fallacy of logic
+511,appeal to emotion,fallacy of logic
+512,appeal to emotion,fallacy of relevance
+513,appeal to emotion,circular reasoning
+514,appeal to emotion,equivocation
+515,appeal to emotion,ad hominem
+516,appeal to emotion,fallacy of logic
+517,appeal to emotion,fallacy of relevance
+518,appeal to emotion,circular reasoning
+519,appeal to emotion,fallacy of logic
+520,appeal to emotion,fallacy of logic
+521,appeal to emotion,fallacy of logic
+522,appeal to emotion,equivocation
+523,appeal to emotion,fallacy of logic
+524,appeal to emotion,equivocation
+525,appeal to emotion,equivocation
+526,appeal to emotion,fallacy of logic
+527,appeal to emotion,fallacy of logic
+528,appeal to emotion,equivocation
+529,appeal to emotion,false causality
+530,appeal to emotion,fallacy of relevance
+531,appeal to emotion,fallacy of relevance
+532,appeal to emotion,circular reasoning
+533,appeal to emotion,circular reasoning
+534,appeal to emotion,circular reasoning
+535,appeal to emotion,circular reasoning
+536,appeal to emotion,equivocation
+537,appeal to emotion,circular reasoning
+538,appeal to emotion,circular reasoning
+539,appeal to emotion,circular reasoning
+540,appeal to emotion,fallacy of credibility
+541,appeal to emotion,circular reasoning
+542,appeal to emotion,circular reasoning
+543,appeal to emotion,circular reasoning
+544,appeal to emotion,fallacy of credibility
+545,appeal to emotion,circular reasoning
+546,appeal to emotion,ad hominem
+547,appeal to emotion,fallacy of logic
+548,appeal to emotion,fallacy of logic
+549,appeal to emotion,fallacy of logic
+550,appeal to emotion,circular reasoning
+551,appeal to emotion,equivocation
+552,appeal to emotion,fallacy of relevance
+553,appeal to emotion,equivocation
+554,appeal to emotion,circular reasoning
+555,appeal to emotion,fallacy of relevance
+556,appeal to emotion,circular reasoning
+557,appeal to emotion,equivocation
+558,appeal to emotion,fallacy of extension
+559,appeal to emotion,equivocation
+560,appeal to emotion,ad hominem
+561,appeal to emotion,fallacy of logic
+562,appeal to emotion,fallacy of logic
+563,appeal to emotion,fallacy of logic
+564,appeal to emotion,fallacy of logic
+565,appeal to emotion,equivocation
+566,appeal to emotion,equivocation
+567,appeal to emotion,fallacy of logic
+568,appeal to emotion,fallacy of logic
+569,appeal to emotion,ad hominem
+570,appeal to emotion,circular reasoning
+571,appeal to emotion,circular reasoning
+572,appeal to emotion,fallacy of logic
+573,appeal to emotion,equivocation
+574,appeal to emotion,fallacy of logic
+575,appeal to emotion,equivocation
+576,appeal to emotion,circular reasoning
+577,appeal to emotion,circular reasoning
+578,appeal to emotion,circular reasoning
+579,appeal to emotion,circular reasoning
+580,appeal to emotion,circular reasoning
+581,appeal to emotion,fallacy of relevance
+582,appeal to emotion,circular reasoning
+583,appeal to emotion,false causality
+584,appeal to emotion,circular reasoning
+585,appeal to emotion,fallacy of logic
+586,appeal to emotion,false causality
+587,appeal to emotion,fallacy of logic
+588,appeal to emotion,circular reasoning
+589,appeal to emotion,fallacy of logic
+590,appeal to emotion,fallacy of logic
+591,appeal to emotion,circular reasoning
+592,appeal to emotion,fallacy of logic
+593,appeal to emotion,circular reasoning
+594,appeal to emotion,fallacy of logic
+595,appeal to emotion,fallacy of relevance
+596,appeal to emotion,equivocation
+597,appeal to emotion,fallacy of logic
+598,appeal to emotion,circular reasoning
+599,appeal to emotion,circular reasoning
+600,appeal to emotion,fallacy of relevance
+601,appeal to emotion,circular reasoning
+602,appeal to emotion,circular reasoning
+603,appeal to emotion,circular reasoning
+604,appeal to emotion,equivocation
+605,appeal to emotion,fallacy of extension
+606,appeal to emotion,false causality
+607,appeal to emotion,fallacy of extension
+608,appeal to emotion,fallacy of logic
+609,appeal to emotion,fallacy of credibility
+610,appeal to emotion,fallacy of logic
+611,appeal to emotion,equivocation
+612,appeal to emotion,fallacy of logic
+613,appeal to emotion,equivocation
+614,appeal to emotion,fallacy of logic
+615,appeal to emotion,ad hominem
+616,appeal to emotion,fallacy of logic
+617,appeal to emotion,fallacy of logic
+618,appeal to emotion,fallacy of logic
+619,appeal to emotion,fallacy of relevance
+620,appeal to emotion,ad hominem
+621,appeal to emotion,fallacy of logic
+622,appeal to emotion,fallacy of logic
+623,appeal to emotion,fallacy of logic
+624,appeal to emotion,fallacy of logic
+625,appeal to emotion,circular reasoning
+626,appeal to emotion,equivocation
+627,circular reasoning,circular reasoning
+628,circular reasoning,fallacy of logic
+629,circular reasoning,fallacy of logic
+630,circular reasoning,false causality
+631,circular reasoning,fallacy of logic
+632,circular reasoning,circular reasoning
+633,circular reasoning,ad hominem
+634,circular reasoning,circular reasoning
+635,circular reasoning,fallacy of relevance
+636,circular reasoning,circular reasoning
+637,circular reasoning,circular reasoning
+638,circular reasoning,fallacy of logic
+639,circular reasoning,ad hominem
+640,circular reasoning,equivocation
+641,circular reasoning,circular reasoning
+642,circular reasoning,circular reasoning
+643,circular reasoning,ad hominem
+644,circular reasoning,circular reasoning
+645,circular reasoning,circular reasoning
+646,circular reasoning,ad hominem
+647,circular reasoning,fallacy of extension
+648,circular reasoning,false causality
+649,circular reasoning,fallacy of relevance
+650,circular reasoning,circular reasoning
+651,circular reasoning,circular reasoning
+652,circular reasoning,fallacy of logic
+653,circular reasoning,circular reasoning
+654,circular reasoning,circular reasoning
+655,circular reasoning,fallacy of logic
+656,circular reasoning,circular reasoning
+657,circular reasoning,circular reasoning
+658,circular reasoning,fallacy of relevance
+659,circular reasoning,fallacy of relevance
+660,circular reasoning,circular reasoning
+661,circular reasoning,circular reasoning
+662,circular reasoning,circular reasoning
+663,circular reasoning,circular reasoning
+664,circular reasoning,circular reasoning
+665,circular reasoning,circular reasoning
+666,circular reasoning,false causality
+667,circular reasoning,fallacy of logic
+668,circular reasoning,ad hominem
+669,circular reasoning,false causality
+670,circular reasoning,circular reasoning
+671,circular reasoning,circular reasoning
+672,circular reasoning,false causality
+673,circular reasoning,circular reasoning
+674,circular reasoning,fallacy of logic
+675,circular reasoning,circular reasoning
+676,circular reasoning,circular reasoning
+677,circular reasoning,circular reasoning
+678,circular reasoning,circular reasoning
+679,circular reasoning,circular reasoning
+680,circular reasoning,circular reasoning
+681,circular reasoning,circular reasoning
+682,circular reasoning,circular reasoning
+683,circular reasoning,fallacy of logic
+684,circular reasoning,circular reasoning
+685,circular reasoning,fallacy of logic
+686,circular reasoning,circular reasoning
+687,circular reasoning,circular reasoning
+688,circular reasoning,circular reasoning
+689,circular reasoning,circular reasoning
+690,circular reasoning,circular reasoning
+691,circular reasoning,circular reasoning
+692,circular reasoning,circular reasoning
+693,circular reasoning,circular reasoning
+694,circular reasoning,circular reasoning
+695,circular reasoning,fallacy of logic
+696,circular reasoning,circular reasoning
+697,circular reasoning,circular reasoning
+698,circular reasoning,circular reasoning
+699,circular reasoning,false causality
+700,circular reasoning,equivocation
+701,circular reasoning,fallacy of extension
+702,circular reasoning,ad hominem
+703,circular reasoning,circular reasoning
+704,circular reasoning,circular reasoning
+705,circular reasoning,circular reasoning
+706,circular reasoning,fallacy of logic
+707,circular reasoning,circular reasoning
+708,circular reasoning,circular reasoning
+709,circular reasoning,circular reasoning
+710,circular reasoning,circular reasoning
+711,circular reasoning,circular reasoning
+712,circular reasoning,fallacy of logic
+713,circular reasoning,circular reasoning
+714,circular reasoning,false causality
+715,circular reasoning,circular reasoning
+716,circular reasoning,equivocation
+717,circular reasoning,circular reasoning
+718,circular reasoning,ad hominem
+719,circular reasoning,circular reasoning
+720,circular reasoning,fallacy of logic
+721,circular reasoning,circular reasoning
+722,circular reasoning,circular reasoning
+723,circular reasoning,fallacy of relevance
+724,circular reasoning,circular reasoning
+725,circular reasoning,fallacy of logic
+726,circular reasoning,circular reasoning
+727,circular reasoning,fallacy of logic
+728,circular reasoning,circular reasoning
+729,circular reasoning,faulty generalization
+730,circular reasoning,fallacy of logic
+731,circular reasoning,fallacy of logic
+732,circular reasoning,fallacy of logic
+733,circular reasoning,fallacy of logic
+734,circular reasoning,circular reasoning
+735,circular reasoning,false causality
+736,circular reasoning,circular reasoning
+737,circular reasoning,circular reasoning
+738,circular reasoning,false causality
+739,circular reasoning,fallacy of relevance
+740,circular reasoning,circular reasoning
+741,circular reasoning,fallacy of relevance
+742,circular reasoning,fallacy of relevance
+743,circular reasoning,false causality
+744,circular reasoning,circular reasoning
+745,circular reasoning,fallacy of logic
+746,circular reasoning,circular reasoning
+747,circular reasoning,circular reasoning
+748,circular reasoning,fallacy of logic
+749,circular reasoning,circular reasoning
+750,circular reasoning,circular reasoning
+751,circular reasoning,circular reasoning
+752,circular reasoning,circular reasoning
+753,circular reasoning,equivocation
+754,circular reasoning,circular reasoning
+755,circular reasoning,false causality
+756,circular reasoning,circular reasoning
+757,circular reasoning,circular reasoning
+758,circular reasoning,circular reasoning
+759,circular reasoning,circular reasoning
+760,circular reasoning,fallacy of logic
+761,circular reasoning,circular reasoning
+762,circular reasoning,circular reasoning
+763,circular reasoning,circular reasoning
+764,circular reasoning,circular reasoning
+765,circular reasoning,circular reasoning
+766,circular reasoning,equivocation
+767,circular reasoning,ad hominem
+768,circular reasoning,circular reasoning
+769,circular reasoning,circular reasoning
+770,circular reasoning,fallacy of logic
+771,circular reasoning,circular reasoning
+772,circular reasoning,circular reasoning
+773,circular reasoning,circular reasoning
+774,circular reasoning,circular reasoning
+775,circular reasoning,circular reasoning
+776,circular reasoning,circular reasoning
+777,circular reasoning,false causality
+778,circular reasoning,circular reasoning
+779,circular reasoning,circular reasoning
+780,circular reasoning,ad hominem
+781,circular reasoning,circular reasoning
+782,circular reasoning,fallacy of relevance
+783,circular reasoning,circular reasoning
+784,circular reasoning,ad hominem
+785,circular reasoning,circular reasoning
+786,equivocation,fallacy of relevance
+787,equivocation,fallacy of relevance
+788,equivocation,fallacy of relevance
+789,equivocation,circular reasoning
+790,equivocation,fallacy of relevance
+791,equivocation,circular reasoning
+792,equivocation,fallacy of relevance
+793,equivocation,circular reasoning
+794,equivocation,circular reasoning
+795,equivocation,circular reasoning
+796,equivocation,circular reasoning
+797,equivocation,circular reasoning
+798,equivocation,fallacy of relevance
+799,equivocation,false causality
+800,equivocation,false causality
+801,equivocation,faulty generalization
+802,equivocation,ad hominem
+803,equivocation,equivocation
+804,equivocation,fallacy of logic
+805,equivocation,false causality
+806,equivocation,circular reasoning
+807,equivocation,equivocation
+808,equivocation,circular reasoning
+809,equivocation,fallacy of logic
+810,equivocation,circular reasoning
+811,equivocation,circular reasoning
+812,equivocation,fallacy of extension
+813,equivocation,fallacy of relevance
+814,equivocation,fallacy of relevance
+815,equivocation,fallacy of logic
+816,equivocation,fallacy of relevance
+817,equivocation,false causality
+818,equivocation,false causality
+819,equivocation,false causality
+820,equivocation,false causality
+821,equivocation,equivocation
+822,equivocation,equivocation
+823,equivocation,false causality
+824,equivocation,circular reasoning
+825,equivocation,fallacy of logic
+826,equivocation,fallacy of logic
+827,equivocation,circular reasoning
+828,equivocation,fallacy of relevance
+829,equivocation,equivocation
+830,equivocation,circular reasoning
+831,equivocation,false causality
+832,equivocation,circular reasoning
+833,fallacy of credibility,circular reasoning
+834,fallacy of credibility,fallacy of logic
+835,fallacy of credibility,circular reasoning
+836,fallacy of credibility,fallacy of relevance
+837,fallacy of credibility,fallacy of credibility
+838,fallacy of credibility,circular reasoning
+839,fallacy of credibility,fallacy of credibility
+840,fallacy of credibility,fallacy of logic
+841,fallacy of credibility,ad hominem
+842,fallacy of credibility,circular reasoning
+843,fallacy of credibility,fallacy of logic
+844,fallacy of credibility,circular reasoning
+845,fallacy of credibility,circular reasoning
+846,fallacy of credibility,fallacy of credibility
+847,fallacy of credibility,circular reasoning
+848,fallacy of credibility,equivocation
+849,fallacy of credibility,circular reasoning
+850,fallacy of credibility,circular reasoning
+851,fallacy of credibility,fallacy of relevance
+852,fallacy of credibility,ad populum
+853,fallacy of credibility,circular reasoning
+854,fallacy of credibility,circular reasoning
+855,fallacy of credibility,circular reasoning
+856,fallacy of credibility,fallacy of extension
+857,fallacy of credibility,fallacy of logic
+858,fallacy of credibility,equivocation
+859,fallacy of credibility,circular reasoning
+860,fallacy of credibility,ad hominem
+861,fallacy of credibility,fallacy of credibility
+862,fallacy of credibility,circular reasoning
+863,fallacy of credibility,fallacy of logic
+864,fallacy of credibility,equivocation
+865,fallacy of credibility,circular reasoning
+866,fallacy of credibility,circular reasoning
+867,fallacy of credibility,false causality
+868,fallacy of credibility,circular reasoning
+869,fallacy of credibility,fallacy of logic
+870,fallacy of credibility,fallacy of logic
+871,fallacy of credibility,fallacy of relevance
+872,fallacy of credibility,fallacy of credibility
+873,fallacy of credibility,circular reasoning
+874,fallacy of credibility,fallacy of logic
+875,fallacy of credibility,equivocation
+876,fallacy of credibility,circular reasoning
+877,fallacy of credibility,fallacy of logic
+878,fallacy of credibility,fallacy of logic
+879,fallacy of credibility,fallacy of relevance
+880,fallacy of credibility,fallacy of logic
+881,fallacy of credibility,equivocation
+882,fallacy of credibility,fallacy of relevance
+883,fallacy of credibility,fallacy of logic
+884,fallacy of credibility,fallacy of credibility
+885,fallacy of credibility,fallacy of credibility
+886,fallacy of credibility,fallacy of logic
+887,fallacy of credibility,circular reasoning
+888,fallacy of credibility,circular reasoning
+889,fallacy of credibility,fallacy of logic
+890,fallacy of credibility,fallacy of relevance
+891,fallacy of credibility,circular reasoning
+892,fallacy of credibility,circular reasoning
+893,fallacy of credibility,fallacy of credibility
+894,fallacy of credibility,fallacy of logic
+895,fallacy of credibility,fallacy of logic
+896,fallacy of credibility,circular reasoning
+897,fallacy of credibility,fallacy of logic
+898,fallacy of credibility,fallacy of relevance
+899,fallacy of credibility,fallacy of logic
+900,fallacy of credibility,fallacy of extension
+901,fallacy of credibility,fallacy of logic
+902,fallacy of credibility,fallacy of logic
+903,fallacy of credibility,circular reasoning
+904,fallacy of credibility,circular reasoning
+905,fallacy of credibility,equivocation
+906,fallacy of credibility,circular reasoning
+907,fallacy of credibility,circular reasoning
+908,fallacy of credibility,ad hominem
+909,fallacy of credibility,circular reasoning
+910,fallacy of credibility,circular reasoning
+911,fallacy of credibility,fallacy of relevance
+912,fallacy of credibility,circular reasoning
+913,fallacy of credibility,circular reasoning
+914,fallacy of credibility,circular reasoning
+915,fallacy of credibility,circular reasoning
+916,fallacy of credibility,circular reasoning
+917,fallacy of credibility,fallacy of extension
+918,fallacy of credibility,fallacy of credibility
+919,fallacy of credibility,equivocation
+920,fallacy of credibility,fallacy of logic
+921,fallacy of credibility,circular reasoning
+922,fallacy of credibility,fallacy of logic
+923,fallacy of credibility,ad hominem
+924,fallacy of credibility,false causality
+925,fallacy of credibility,ad hominem
+926,fallacy of credibility,circular reasoning
+927,fallacy of credibility,fallacy of relevance
+928,fallacy of credibility,fallacy of relevance
+929,fallacy of credibility,fallacy of logic
+930,fallacy of credibility,ad hominem
+931,fallacy of credibility,circular reasoning
+932,fallacy of credibility,fallacy of credibility
+933,fallacy of credibility,fallacy of logic
+934,fallacy of credibility,fallacy of relevance
+935,fallacy of credibility,fallacy of relevance
+936,fallacy of credibility,circular reasoning
+937,fallacy of credibility,fallacy of relevance
+938,fallacy of credibility,circular reasoning
+939,fallacy of credibility,fallacy of logic
+940,fallacy of credibility,fallacy of relevance
+941,fallacy of credibility,faulty generalization
+942,fallacy of credibility,fallacy of logic
+943,fallacy of credibility,circular reasoning
+944,fallacy of credibility,false causality
+945,fallacy of credibility,fallacy of relevance
+946,fallacy of credibility,circular reasoning
+947,fallacy of credibility,circular reasoning
+948,fallacy of credibility,fallacy of logic
+949,fallacy of credibility,circular reasoning
+950,fallacy of credibility,fallacy of logic
+951,fallacy of credibility,circular reasoning
+952,fallacy of credibility,fallacy of logic
+953,fallacy of credibility,circular reasoning
+954,fallacy of credibility,fallacy of relevance
+955,fallacy of credibility,circular reasoning
+956,fallacy of credibility,circular reasoning
+957,fallacy of credibility,circular reasoning
+958,fallacy of credibility,fallacy of logic
+959,fallacy of extension,fallacy of logic
+960,fallacy of extension,ad hominem
+961,fallacy of extension,circular reasoning
+962,fallacy of extension,equivocation
+963,fallacy of extension,equivocation
+964,fallacy of extension,fallacy of relevance
+965,fallacy of extension,equivocation
+966,fallacy of extension,equivocation
+967,fallacy of extension,equivocation
+968,fallacy of extension,fallacy of relevance
+969,fallacy of extension,equivocation
+970,fallacy of extension,fallacy of logic
+971,fallacy of extension,fallacy of logic
+972,fallacy of extension,fallacy of relevance
+973,fallacy of extension,circular reasoning
+974,fallacy of extension,fallacy of relevance
+975,fallacy of extension,fallacy of logic
+976,fallacy of extension,equivocation
+977,fallacy of extension,ad hominem
+978,fallacy of extension,false causality
+979,fallacy of extension,equivocation
+980,fallacy of extension,equivocation
+981,fallacy of extension,ad hominem
+982,fallacy of extension,fallacy of relevance
+983,fallacy of extension,equivocation
+984,fallacy of extension,circular reasoning
+985,fallacy of extension,fallacy of relevance
+986,fallacy of extension,ad hominem
+987,fallacy of extension,equivocation
+988,fallacy of extension,equivocation
+989,fallacy of extension,fallacy of relevance
+990,fallacy of extension,equivocation
+991,fallacy of extension,equivocation
+992,fallacy of extension,fallacy of extension
+993,fallacy of extension,fallacy of logic
+994,fallacy of extension,fallacy of logic
+995,fallacy of extension,fallacy of logic
+996,fallacy of extension,circular reasoning
+997,fallacy of extension,equivocation
+998,fallacy of extension,equivocation
+999,fallacy of extension,circular reasoning
+1000,fallacy of extension,fallacy of relevance
+1001,fallacy of extension,equivocation
+1002,fallacy of extension,circular reasoning
+1003,fallacy of extension,fallacy of extension
+1004,fallacy of extension,fallacy of relevance
+1005,fallacy of extension,fallacy of relevance
+1006,fallacy of extension,fallacy of logic
+1007,fallacy of extension,fallacy of relevance
+1008,fallacy of extension,fallacy of relevance
+1009,fallacy of extension,ad hominem
+1010,fallacy of extension,equivocation
+1011,fallacy of extension,fallacy of relevance
+1012,fallacy of extension,fallacy of logic
+1013,fallacy of extension,fallacy of relevance
+1014,fallacy of extension,circular reasoning
+1015,fallacy of extension,fallacy of extension
+1016,fallacy of extension,circular reasoning
+1017,fallacy of extension,equivocation
+1018,fallacy of extension,fallacy of extension
+1019,fallacy of extension,fallacy of relevance
+1020,fallacy of extension,equivocation
+1021,fallacy of extension,circular reasoning
+1022,fallacy of extension,fallacy of relevance
+1023,fallacy of extension,ad hominem
+1024,fallacy of extension,fallacy of relevance
+1025,fallacy of extension,equivocation
+1026,fallacy of extension,fallacy of relevance
+1027,fallacy of extension,circular reasoning
+1028,fallacy of extension,circular reasoning
+1029,fallacy of extension,fallacy of logic
+1030,fallacy of extension,fallacy of logic
+1031,fallacy of extension,fallacy of relevance
+1032,fallacy of extension,fallacy of logic
+1033,fallacy of extension,fallacy of relevance
+1034,fallacy of extension,fallacy of relevance
+1035,fallacy of extension,ad hominem
+1036,fallacy of extension,ad hominem
+1037,fallacy of extension,fallacy of logic
+1038,fallacy of extension,fallacy of relevance
+1039,fallacy of extension,circular reasoning
+1040,fallacy of extension,fallacy of extension
+1041,fallacy of extension,ad hominem
+1042,fallacy of extension,fallacy of extension
+1043,fallacy of extension,circular reasoning
+1044,fallacy of extension,false causality
+1045,fallacy of extension,ad hominem
+1046,fallacy of extension,fallacy of relevance
+1047,fallacy of extension,circular reasoning
+1048,fallacy of extension,equivocation
+1049,fallacy of extension,fallacy of extension
+1050,fallacy of extension,fallacy of relevance
+1051,fallacy of extension,circular reasoning
+1052,fallacy of extension,fallacy of relevance
+1053,fallacy of extension,fallacy of relevance
+1054,fallacy of extension,fallacy of relevance
+1055,fallacy of extension,fallacy of extension
+1056,fallacy of extension,fallacy of logic
+1057,fallacy of extension,circular reasoning
+1058,fallacy of extension,fallacy of relevance
+1059,fallacy of extension,circular reasoning
+1060,fallacy of extension,circular reasoning
+1061,fallacy of extension,fallacy of relevance
+1062,fallacy of extension,false causality
+1063,fallacy of extension,ad hominem
+1064,fallacy of extension,circular reasoning
+1065,fallacy of extension,fallacy of relevance
+1066,fallacy of extension,equivocation
+1067,fallacy of extension,ad hominem
+1068,fallacy of extension,circular reasoning
+1069,fallacy of extension,ad hominem
+1070,fallacy of extension,ad hominem
+1071,fallacy of extension,ad hominem
+1072,fallacy of extension,fallacy of logic
+1073,fallacy of extension,fallacy of relevance
+1074,fallacy of logic,fallacy of logic
+1075,fallacy of logic,circular reasoning
+1076,fallacy of logic,fallacy of credibility
+1077,fallacy of logic,circular reasoning
+1078,fallacy of logic,fallacy of logic
+1079,fallacy of logic,fallacy of logic
+1080,fallacy of logic,fallacy of logic
+1081,fallacy of logic,ad hominem
+1082,fallacy of logic,circular reasoning
+1083,fallacy of logic,equivocation
+1084,fallacy of logic,circular reasoning
+1085,fallacy of logic,circular reasoning
+1086,fallacy of logic,fallacy of extension
+1087,fallacy of logic,fallacy of relevance
+1088,fallacy of logic,circular reasoning
+1089,fallacy of logic,ad hominem
+1090,fallacy of logic,fallacy of relevance
+1091,fallacy of logic,equivocation
+1092,fallacy of logic,fallacy of extension
+1093,fallacy of logic,equivocation
+1094,fallacy of logic,circular reasoning
+1095,fallacy of logic,circular reasoning
+1096,fallacy of logic,equivocation
+1097,fallacy of logic,ad hominem
+1098,fallacy of logic,fallacy of credibility
+1099,fallacy of logic,circular reasoning
+1100,fallacy of logic,circular reasoning
+1101,fallacy of logic,circular reasoning
+1102,fallacy of logic,circular reasoning
+1103,fallacy of logic,fallacy of logic
+1104,fallacy of logic,fallacy of relevance
+1105,fallacy of logic,false causality
+1106,fallacy of logic,false causality
+1107,fallacy of logic,fallacy of logic
+1108,fallacy of logic,circular reasoning
+1109,fallacy of logic,equivocation
+1110,fallacy of logic,circular reasoning
+1111,fallacy of logic,circular reasoning
+1112,fallacy of logic,ad hominem
+1113,fallacy of logic,fallacy of logic
+1114,fallacy of logic,ad hominem
+1115,fallacy of logic,circular reasoning
+1116,fallacy of logic,circular reasoning
+1117,fallacy of logic,circular reasoning
+1118,fallacy of logic,false causality
+1119,fallacy of logic,circular reasoning
+1120,fallacy of logic,fallacy of logic
+1121,fallacy of logic,circular reasoning
+1122,fallacy of logic,fallacy of logic
+1123,fallacy of logic,fallacy of logic
+1124,fallacy of logic,fallacy of logic
+1125,fallacy of logic,circular reasoning
+1126,fallacy of logic,equivocation
+1127,fallacy of logic,equivocation
+1128,fallacy of logic,circular reasoning
+1129,fallacy of logic,fallacy of relevance
+1130,fallacy of logic,fallacy of relevance
+1131,fallacy of logic,fallacy of relevance
+1132,fallacy of logic,fallacy of logic
+1133,fallacy of logic,fallacy of logic
+1134,fallacy of logic,fallacy of logic
+1135,fallacy of logic,circular reasoning
+1136,fallacy of logic,circular reasoning
+1137,fallacy of logic,circular reasoning
+1138,fallacy of logic,fallacy of relevance
+1139,fallacy of logic,fallacy of logic
+1140,fallacy of logic,equivocation
+1141,fallacy of logic,circular reasoning
+1142,fallacy of logic,circular reasoning
+1143,fallacy of logic,circular reasoning
+1144,fallacy of logic,fallacy of logic
+1145,fallacy of logic,circular reasoning
+1146,fallacy of logic,circular reasoning
+1147,fallacy of logic,faulty generalization
+1148,fallacy of logic,circular reasoning
+1149,fallacy of logic,faulty generalization
+1150,fallacy of logic,fallacy of extension
+1151,fallacy of logic,ad hominem
+1152,fallacy of logic,fallacy of logic
+1153,fallacy of logic,equivocation
+1154,fallacy of logic,equivocation
+1155,fallacy of logic,equivocation
+1156,fallacy of logic,fallacy of relevance
+1157,fallacy of logic,fallacy of relevance
+1158,fallacy of logic,faulty generalization
+1159,fallacy of logic,circular reasoning
+1160,fallacy of logic,fallacy of relevance
+1161,fallacy of logic,fallacy of logic
+1162,fallacy of logic,false causality
+1163,fallacy of logic,circular reasoning
+1164,fallacy of logic,fallacy of logic
+1165,fallacy of logic,circular reasoning
+1166,fallacy of logic,ad hominem
+1167,fallacy of logic,fallacy of logic
+1168,fallacy of logic,circular reasoning
+1169,fallacy of logic,circular reasoning
+1170,fallacy of logic,circular reasoning
+1171,fallacy of logic,fallacy of logic
+1172,fallacy of logic,circular reasoning
+1173,fallacy of logic,fallacy of relevance
+1174,fallacy of logic,ad hominem
+1175,fallacy of logic,circular reasoning
+1176,fallacy of logic,circular reasoning
+1177,fallacy of logic,fallacy of extension
+1178,fallacy of logic,fallacy of logic
+1179,fallacy of logic,fallacy of logic
+1180,fallacy of logic,fallacy of logic
+1181,fallacy of logic,equivocation
+1182,fallacy of logic,fallacy of relevance
+1183,fallacy of logic,circular reasoning
+1184,fallacy of logic,fallacy of relevance
+1185,fallacy of logic,circular reasoning
+1186,fallacy of logic,fallacy of logic
+1187,fallacy of logic,equivocation
+1188,fallacy of logic,circular reasoning
+1189,fallacy of logic,fallacy of extension
+1190,fallacy of logic,circular reasoning
+1191,fallacy of logic,fallacy of logic
+1192,fallacy of logic,circular reasoning
+1193,fallacy of logic,fallacy of logic
+1194,fallacy of logic,circular reasoning
+1195,fallacy of logic,fallacy of logic
+1196,fallacy of logic,circular reasoning
+1197,fallacy of logic,fallacy of relevance
+1198,fallacy of logic,equivocation
+1199,fallacy of logic,circular reasoning
+1200,fallacy of logic,ad hominem
+1201,fallacy of logic,fallacy of relevance
+1202,fallacy of logic,circular reasoning
+1203,fallacy of logic,circular reasoning
+1204,fallacy of logic,circular reasoning
+1205,fallacy of logic,circular reasoning
+1206,fallacy of logic,circular reasoning
+1207,fallacy of logic,circular reasoning
+1208,fallacy of logic,circular reasoning
+1209,fallacy of logic,equivocation
+1210,fallacy of logic,circular reasoning
+1211,fallacy of logic,fallacy of relevance
+1212,fallacy of logic,circular reasoning
+1213,fallacy of logic,circular reasoning
+1214,fallacy of logic,fallacy of logic
+1215,fallacy of logic,circular reasoning
+1216,fallacy of logic,fallacy of logic
+1217,fallacy of logic,fallacy of extension
+1218,fallacy of relevance,circular reasoning
+1219,fallacy of relevance,faulty generalization
+1220,fallacy of relevance,equivocation
+1221,fallacy of relevance,false causality
+1222,fallacy of relevance,false causality
+1223,fallacy of relevance,equivocation
+1224,fallacy of relevance,circular reasoning
+1225,fallacy of relevance,fallacy of relevance
+1226,fallacy of relevance,fallacy of relevance
+1227,fallacy of relevance,fallacy of logic
+1228,fallacy of relevance,fallacy of relevance
+1229,fallacy of relevance,false causality
+1230,fallacy of relevance,circular reasoning
+1231,fallacy of relevance,equivocation
+1232,fallacy of relevance,equivocation
+1233,fallacy of relevance,ad hominem
+1234,fallacy of relevance,fallacy of logic
+1235,fallacy of relevance,ad hominem
+1236,fallacy of relevance,fallacy of logic
+1237,fallacy of relevance,false causality
+1238,fallacy of relevance,equivocation
+1239,fallacy of relevance,ad hominem
+1240,fallacy of relevance,fallacy of extension
+1241,fallacy of relevance,equivocation
+1242,fallacy of relevance,fallacy of relevance
+1243,fallacy of relevance,fallacy of extension
+1244,fallacy of relevance,false causality
+1245,fallacy of relevance,fallacy of logic
+1246,fallacy of relevance,fallacy of logic
+1247,fallacy of relevance,fallacy of relevance
+1248,fallacy of relevance,fallacy of logic
+1249,fallacy of relevance,equivocation
+1250,fallacy of relevance,circular reasoning
+1251,fallacy of relevance,fallacy of logic
+1252,fallacy of relevance,fallacy of logic
+1253,fallacy of relevance,circular reasoning
+1254,fallacy of relevance,fallacy of logic
+1255,fallacy of relevance,fallacy of relevance
+1256,fallacy of relevance,equivocation
+1257,fallacy of relevance,circular reasoning
+1258,fallacy of relevance,fallacy of relevance
+1259,fallacy of relevance,fallacy of logic
+1260,fallacy of relevance,circular reasoning
+1261,fallacy of relevance,circular reasoning
+1262,fallacy of relevance,fallacy of relevance
+1263,fallacy of relevance,circular reasoning
+1264,fallacy of relevance,fallacy of relevance
+1265,fallacy of relevance,circular reasoning
+1266,fallacy of relevance,fallacy of logic
+1267,fallacy of relevance,circular reasoning
+1268,fallacy of relevance,circular reasoning
+1269,fallacy of relevance,equivocation
+1270,fallacy of relevance,ad hominem
+1271,fallacy of relevance,ad hominem
+1272,fallacy of relevance,ad hominem
+1273,fallacy of relevance,false causality
+1274,fallacy of relevance,circular reasoning
+1275,fallacy of relevance,fallacy of relevance
+1276,fallacy of relevance,fallacy of logic
+1277,fallacy of relevance,fallacy of relevance
+1278,fallacy of relevance,false causality
+1279,fallacy of relevance,circular reasoning
+1280,fallacy of relevance,false causality
+1281,fallacy of relevance,circular reasoning
+1282,fallacy of relevance,fallacy of relevance
+1283,fallacy of relevance,fallacy of relevance
+1284,fallacy of relevance,false causality
+1285,fallacy of relevance,circular reasoning
+1286,fallacy of relevance,equivocation
+1287,fallacy of relevance,equivocation
+1288,fallacy of relevance,circular reasoning
+1289,fallacy of relevance,equivocation
+1290,fallacy of relevance,ad hominem
+1291,fallacy of relevance,false causality
+1292,fallacy of relevance,ad hominem
+1293,fallacy of relevance,fallacy of extension
+1294,fallacy of relevance,equivocation
+1295,fallacy of relevance,circular reasoning
+1296,fallacy of relevance,fallacy of relevance
+1297,fallacy of relevance,circular reasoning
+1298,fallacy of relevance,fallacy of relevance
+1299,fallacy of relevance,fallacy of logic
+1300,fallacy of relevance,fallacy of relevance
+1301,fallacy of relevance,fallacy of relevance
+1302,fallacy of relevance,fallacy of logic
+1303,fallacy of relevance,fallacy of logic
+1304,fallacy of relevance,fallacy of logic
+1305,fallacy of relevance,fallacy of relevance
+1306,fallacy of relevance,fallacy of relevance
+1307,fallacy of relevance,equivocation
+1308,fallacy of relevance,fallacy of logic
+1309,fallacy of relevance,fallacy of extension
+1310,fallacy of relevance,fallacy of logic
+1311,fallacy of relevance,circular reasoning
+1312,fallacy of relevance,fallacy of relevance
+1313,fallacy of relevance,fallacy of relevance
+1314,fallacy of relevance,circular reasoning
+1315,fallacy of relevance,fallacy of extension
+1316,fallacy of relevance,fallacy of logic
+1317,fallacy of relevance,fallacy of logic
+1318,fallacy of relevance,fallacy of relevance
+1319,fallacy of relevance,circular reasoning
+1320,fallacy of relevance,circular reasoning
+1321,fallacy of relevance,equivocation
+1322,fallacy of relevance,ad hominem
+1323,fallacy of relevance,false causality
+1324,fallacy of relevance,fallacy of logic
+1325,fallacy of relevance,circular reasoning
+1326,fallacy of relevance,equivocation
+1327,fallacy of relevance,fallacy of logic
+1328,fallacy of relevance,circular reasoning
+1329,fallacy of relevance,circular reasoning
+1330,fallacy of relevance,ad hominem
+1331,fallacy of relevance,false causality
+1332,fallacy of relevance,false causality
+1333,fallacy of relevance,circular reasoning
+1334,fallacy of relevance,equivocation
+1335,fallacy of relevance,fallacy of logic
+1336,fallacy of relevance,equivocation
+1337,fallacy of relevance,fallacy of extension
+1338,fallacy of relevance,fallacy of relevance
+1339,fallacy of relevance,fallacy of logic
+1340,fallacy of relevance,fallacy of relevance
+1341,fallacy of relevance,fallacy of logic
+1342,fallacy of relevance,fallacy of relevance
+1343,fallacy of relevance,fallacy of relevance
+1344,fallacy of relevance,false causality
+1345,fallacy of relevance,fallacy of logic
+1346,fallacy of relevance,fallacy of relevance
+1347,fallacy of relevance,fallacy of logic
+1348,fallacy of relevance,fallacy of logic
+1349,fallacy of relevance,circular reasoning
+1350,fallacy of relevance,fallacy of extension
+1351,fallacy of relevance,fallacy of logic
+1352,fallacy of relevance,false causality
+1353,fallacy of relevance,fallacy of logic
+1354,fallacy of relevance,circular reasoning
+1355,fallacy of relevance,fallacy of relevance
+1356,fallacy of relevance,fallacy of logic
+1357,fallacy of relevance,circular reasoning
+1358,fallacy of relevance,ad hominem
+1359,fallacy of relevance,ad hominem
+1360,fallacy of relevance,fallacy of logic
+1361,fallacy of relevance,circular reasoning
+1362,fallacy of relevance,ad hominem
+1363,fallacy of relevance,equivocation
+1364,fallacy of relevance,ad hominem
+1365,false causality,false causality
+1366,false causality,equivocation
+1367,false causality,false causality
+1368,false causality,circular reasoning
+1369,false causality,fallacy of logic
+1370,false causality,equivocation
+1371,false causality,circular reasoning
+1372,false causality,ad hominem
+1373,false causality,circular reasoning
+1374,false causality,circular reasoning
+1375,false causality,circular reasoning
+1376,false causality,fallacy of logic
+1377,false causality,fallacy of relevance
+1378,false causality,false causality
+1379,false causality,fallacy of relevance
+1380,false causality,false causality
+1381,false causality,circular reasoning
+1382,false causality,circular reasoning
+1383,false causality,fallacy of relevance
+1384,false causality,false causality
+1385,false causality,equivocation
+1386,false causality,circular reasoning
+1387,false causality,circular reasoning
+1388,false causality,circular reasoning
+1389,false causality,circular reasoning
+1390,false causality,equivocation
+1391,false causality,false causality
+1392,false causality,false causality
+1393,false causality,fallacy of relevance
+1394,false causality,false causality
+1395,false causality,circular reasoning
+1396,false causality,false causality
+1397,false causality,circular reasoning
+1398,false causality,false causality
+1399,false causality,fallacy of extension
+1400,false causality,circular reasoning
+1401,false causality,false causality
+1402,false causality,circular reasoning
+1403,false causality,ad hominem
+1404,false causality,circular reasoning
+1405,false causality,circular reasoning
+1406,false causality,circular reasoning
+1407,false causality,fallacy of logic
+1408,false causality,false causality
+1409,false causality,false causality
+1410,false causality,equivocation
+1411,false causality,circular reasoning
+1412,false causality,fallacy of logic
+1413,false causality,circular reasoning
+1414,false causality,circular reasoning
+1415,false causality,circular reasoning
+1416,false causality,fallacy of logic
+1417,false causality,fallacy of logic
+1418,false causality,circular reasoning
+1419,false causality,false causality
+1420,false causality,circular reasoning
+1421,false causality,circular reasoning
+1422,false causality,circular reasoning
+1423,false causality,false causality
+1424,false causality,fallacy of logic
+1425,false causality,equivocation
+1426,false causality,false causality
+1427,false causality,fallacy of extension
+1428,false causality,circular reasoning
+1429,false causality,fallacy of logic
+1430,false causality,circular reasoning
+1431,false causality,circular reasoning
+1432,false causality,fallacy of logic
+1433,false causality,fallacy of relevance
+1434,false causality,ad hominem
+1435,false causality,false causality
+1436,false causality,fallacy of logic
+1437,false causality,false causality
+1438,false causality,circular reasoning
+1439,false causality,circular reasoning
+1440,false causality,fallacy of logic
+1441,false causality,circular reasoning
+1442,false causality,false causality
+1443,false causality,faulty generalization
+1444,false causality,ad hominem
+1445,false causality,ad hominem
+1446,false causality,fallacy of logic
+1447,false causality,circular reasoning
+1448,false causality,false causality
+1449,false causality,false causality
+1450,false causality,false causality
+1451,false causality,circular reasoning
+1452,false causality,circular reasoning
+1453,false causality,fallacy of logic
+1454,false causality,circular reasoning
+1455,false causality,ad hominem
+1456,false causality,false causality
+1457,false causality,circular reasoning
+1458,false causality,false causality
+1459,false causality,false causality
+1460,false causality,circular reasoning
+1461,false causality,circular reasoning
+1462,false causality,false causality
+1463,false causality,fallacy of relevance
+1464,false causality,circular reasoning
+1465,false causality,equivocation
+1466,false causality,false causality
+1467,false causality,circular reasoning
+1468,false causality,equivocation
+1469,false causality,fallacy of relevance
+1470,false causality,fallacy of logic
+1471,false causality,false causality
+1472,false causality,circular reasoning
+1473,false causality,circular reasoning
+1474,false causality,false causality
+1475,false causality,false causality
+1476,false causality,ad hominem
+1477,false causality,fallacy of relevance
+1478,false causality,circular reasoning
+1479,false causality,circular reasoning
+1480,false causality,false causality
+1481,false causality,fallacy of logic
+1482,false causality,circular reasoning
+1483,false causality,fallacy of logic
+1484,false causality,circular reasoning
+1485,false causality,circular reasoning
+1486,false causality,circular reasoning
+1487,false causality,ad hominem
+1488,false causality,circular reasoning
+1489,false causality,circular reasoning
+1490,false causality,circular reasoning
+1491,false causality,false causality
+1492,false causality,circular reasoning
+1493,false causality,circular reasoning
+1494,false causality,false causality
+1495,false causality,false causality
+1496,false causality,fallacy of relevance
+1497,false causality,false causality
+1498,false causality,fallacy of relevance
+1499,false causality,circular reasoning
+1500,false causality,circular reasoning
+1501,false causality,false causality
+1502,false causality,fallacy of relevance
+1503,false causality,circular reasoning
+1504,false causality,circular reasoning
+1505,false causality,circular reasoning
+1506,false causality,circular reasoning
+1507,false causality,fallacy of relevance
+1508,false causality,circular reasoning
+1509,false causality,faulty generalization
+1510,false causality,fallacy of logic
+1511,false causality,equivocation
+1512,false causality,fallacy of relevance
+1513,false causality,circular reasoning
+1514,false causality,fallacy of logic
+1515,false causality,ad hominem
+1516,false causality,circular reasoning
+1517,false causality,equivocation
+1518,false causality,fallacy of logic
+1519,false causality,false causality
+1520,false causality,faulty generalization
+1521,false causality,circular reasoning
+1522,false causality,circular reasoning
+1523,false causality,equivocation
+1524,false causality,false causality
+1525,false causality,false causality
+1526,false causality,ad hominem
+1527,false causality,false causality
+1528,false causality,circular reasoning
+1529,false causality,circular reasoning
+1530,false causality,equivocation
+1531,false causality,circular reasoning
+1532,false causality,false causality
+1533,false causality,false causality
+1534,false causality,false causality
+1535,false causality,equivocation
+1536,false causality,fallacy of extension
+1537,false causality,circular reasoning
+1538,false causality,false causality
+1539,false causality,false causality
+1540,false causality,circular reasoning
+1541,false causality,circular reasoning
+1542,false causality,equivocation
+1543,false causality,circular reasoning
+1544,false causality,circular reasoning
+1545,false causality,equivocation
+1546,false causality,circular reasoning
+1547,false causality,equivocation
+1548,false causality,fallacy of relevance
+1549,false causality,false causality
+1550,false causality,circular reasoning
+1551,false causality,circular reasoning
+1552,false causality,circular reasoning
+1553,false causality,equivocation
+1554,false dilemma,fallacy of relevance
+1555,false dilemma,fallacy of relevance
+1556,false dilemma,false dilemma
+1557,false dilemma,fallacy of relevance
+1558,false dilemma,fallacy of relevance
+1559,false dilemma,fallacy of relevance
+1560,false dilemma,fallacy of logic
+1561,false dilemma,fallacy of relevance
+1562,false dilemma,fallacy of logic
+1563,false dilemma,fallacy of logic
+1564,false dilemma,ad hominem
+1565,false dilemma,fallacy of logic
+1566,false dilemma,ad hominem
+1567,false dilemma,fallacy of logic
+1568,false dilemma,fallacy of relevance
+1569,false dilemma,fallacy of logic
+1570,false dilemma,circular reasoning
+1571,false dilemma,circular reasoning
+1572,false dilemma,circular reasoning
+1573,false dilemma,circular reasoning
+1574,false dilemma,fallacy of logic
+1575,false dilemma,fallacy of logic
+1576,false dilemma,fallacy of relevance
+1577,false dilemma,equivocation
+1578,false dilemma,circular reasoning
+1579,false dilemma,fallacy of relevance
+1580,false dilemma,fallacy of logic
+1581,false dilemma,circular reasoning
+1582,false dilemma,fallacy of relevance
+1583,false dilemma,fallacy of relevance
+1584,false dilemma,fallacy of logic
+1585,false dilemma,fallacy of logic
+1586,false dilemma,fallacy of logic
+1587,false dilemma,fallacy of relevance
+1588,false dilemma,fallacy of logic
+1589,false dilemma,fallacy of logic
+1590,false dilemma,circular reasoning
+1591,false dilemma,fallacy of relevance
+1592,false dilemma,fallacy of logic
+1593,false dilemma,fallacy of logic
+1594,false dilemma,false causality
+1595,false dilemma,fallacy of logic
+1596,false dilemma,fallacy of extension
+1597,false dilemma,equivocation
+1598,false dilemma,fallacy of extension
+1599,false dilemma,circular reasoning
+1600,false dilemma,fallacy of relevance
+1601,false dilemma,equivocation
+1602,false dilemma,equivocation
+1603,false dilemma,fallacy of relevance
+1604,false dilemma,fallacy of logic
+1605,false dilemma,fallacy of relevance
+1606,false dilemma,fallacy of relevance
+1607,false dilemma,false dilemma
+1608,false dilemma,equivocation
+1609,false dilemma,fallacy of logic
+1610,false dilemma,circular reasoning
+1611,false dilemma,ad hominem
+1612,false dilemma,circular reasoning
+1613,false dilemma,fallacy of relevance
+1614,false dilemma,fallacy of logic
+1615,false dilemma,ad hominem
+1616,false dilemma,fallacy of relevance
+1617,false dilemma,fallacy of relevance
+1618,false dilemma,faulty generalization
+1619,false dilemma,false causality
+1620,false dilemma,fallacy of relevance
+1621,false dilemma,fallacy of logic
+1622,false dilemma,ad hominem
+1623,false dilemma,fallacy of logic
+1624,false dilemma,fallacy of relevance
+1625,false dilemma,circular reasoning
+1626,false dilemma,fallacy of relevance
+1627,false dilemma,fallacy of logic
+1628,false dilemma,circular reasoning
+1629,false dilemma,ad hominem
+1630,false dilemma,circular reasoning
+1631,false dilemma,fallacy of relevance
+1632,false dilemma,false causality
+1633,false dilemma,circular reasoning
+1634,false dilemma,equivocation
+1635,false dilemma,circular reasoning
+1636,false dilemma,circular reasoning
+1637,false dilemma,circular reasoning
+1638,false dilemma,fallacy of logic
+1639,false dilemma,circular reasoning
+1640,false dilemma,fallacy of logic
+1641,false dilemma,circular reasoning
+1642,false dilemma,fallacy of logic
+1643,false dilemma,circular reasoning
+1644,false dilemma,false causality
+1645,false dilemma,circular reasoning
+1646,false dilemma,fallacy of logic
+1647,false dilemma,fallacy of logic
+1648,false dilemma,fallacy of logic
+1649,false dilemma,false causality
+1650,false dilemma,circular reasoning
+1651,false dilemma,fallacy of relevance
+1652,false dilemma,fallacy of logic
+1653,false dilemma,false causality
+1654,false dilemma,fallacy of relevance
+1655,false dilemma,fallacy of logic
+1656,false dilemma,fallacy of logic
+1657,false dilemma,circular reasoning
+1658,false dilemma,ad hominem
+1659,false dilemma,fallacy of relevance
+1660,false dilemma,fallacy of relevance
+1661,false dilemma,fallacy of logic
+1662,false dilemma,equivocation
+1663,false dilemma,fallacy of logic
+1664,false dilemma,fallacy of relevance
+1665,false dilemma,fallacy of logic
+1666,false dilemma,fallacy of relevance
+1667,false dilemma,fallacy of logic
+1668,false dilemma,fallacy of relevance
+1669,false dilemma,fallacy of logic
+1670,false dilemma,fallacy of relevance
+1671,false dilemma,fallacy of logic
+1672,false dilemma,fallacy of relevance
+1673,false dilemma,fallacy of relevance
+1674,false dilemma,ad hominem
+1675,false dilemma,circular reasoning
+1676,false dilemma,fallacy of logic
+1677,false dilemma,circular reasoning
+1678,false dilemma,fallacy of logic
+1679,false dilemma,fallacy of logic
+1680,faulty generalization,circular reasoning
+1681,faulty generalization,false causality
+1682,faulty generalization,faulty generalization
+1683,faulty generalization,circular reasoning
+1684,faulty generalization,circular reasoning
+1685,faulty generalization,circular reasoning
+1686,faulty generalization,fallacy of logic
+1687,faulty generalization,fallacy of extension
+1688,faulty generalization,fallacy of logic
+1689,faulty generalization,circular reasoning
+1690,faulty generalization,ad hominem
+1691,faulty generalization,circular reasoning
+1692,faulty generalization,circular reasoning
+1693,faulty generalization,fallacy of logic
+1694,faulty generalization,fallacy of relevance
+1695,faulty generalization,fallacy of logic
+1696,faulty generalization,fallacy of logic
+1697,faulty generalization,false causality
+1698,faulty generalization,ad hominem
+1699,faulty generalization,fallacy of logic
+1700,faulty generalization,fallacy of relevance
+1701,faulty generalization,equivocation
+1702,faulty generalization,ad hominem
+1703,faulty generalization,circular reasoning
+1704,faulty generalization,circular reasoning
+1705,faulty generalization,circular reasoning
+1706,faulty generalization,fallacy of logic
+1707,faulty generalization,fallacy of logic
+1708,faulty generalization,faulty generalization
+1709,faulty generalization,faulty generalization
+1710,faulty generalization,equivocation
+1711,faulty generalization,fallacy of relevance
+1712,faulty generalization,fallacy of relevance
+1713,faulty generalization,faulty generalization
+1714,faulty generalization,ad hominem
+1715,faulty generalization,ad hominem
+1716,faulty generalization,ad hominem
+1717,faulty generalization,fallacy of relevance
+1718,faulty generalization,fallacy of logic
+1719,faulty generalization,circular reasoning
+1720,faulty generalization,equivocation
+1721,faulty generalization,circular reasoning
+1722,faulty generalization,fallacy of relevance
+1723,faulty generalization,false causality
+1724,faulty generalization,fallacy of relevance
+1725,faulty generalization,circular reasoning
+1726,faulty generalization,fallacy of logic
+1727,faulty generalization,fallacy of relevance
+1728,faulty generalization,false causality
+1729,faulty generalization,fallacy of relevance
+1730,faulty generalization,fallacy of logic
+1731,faulty generalization,equivocation
+1732,faulty generalization,fallacy of extension
+1733,faulty generalization,circular reasoning
+1734,faulty generalization,circular reasoning
+1735,faulty generalization,fallacy of logic
+1736,faulty generalization,false causality
+1737,faulty generalization,circular reasoning
+1738,faulty generalization,fallacy of relevance
+1739,faulty generalization,circular reasoning
+1740,faulty generalization,circular reasoning
+1741,faulty generalization,ad hominem
+1742,faulty generalization,circular reasoning
+1743,faulty generalization,circular reasoning
+1744,faulty generalization,circular reasoning
+1745,faulty generalization,ad hominem
+1746,faulty generalization,circular reasoning
+1747,faulty generalization,fallacy of logic
+1748,faulty generalization,ad hominem
+1749,faulty generalization,fallacy of relevance
+1750,faulty generalization,circular reasoning
+1751,faulty generalization,faulty generalization
+1752,faulty generalization,ad hominem
+1753,faulty generalization,circular reasoning
+1754,faulty generalization,circular reasoning
+1755,faulty generalization,circular reasoning
+1756,faulty generalization,fallacy of relevance
+1757,faulty generalization,fallacy of relevance
+1758,faulty generalization,circular reasoning
+1759,faulty generalization,equivocation
+1760,faulty generalization,fallacy of relevance
+1761,faulty generalization,fallacy of relevance
+1762,faulty generalization,fallacy of relevance
+1763,faulty generalization,fallacy of logic
+1764,faulty generalization,circular reasoning
+1765,faulty generalization,equivocation
+1766,faulty generalization,ad hominem
+1767,faulty generalization,fallacy of logic
+1768,faulty generalization,ad hominem
+1769,faulty generalization,circular reasoning
+1770,faulty generalization,circular reasoning
+1771,faulty generalization,circular reasoning
+1772,faulty generalization,ad hominem
+1773,faulty generalization,circular reasoning
+1774,faulty generalization,circular reasoning
+1775,faulty generalization,fallacy of logic
+1776,faulty generalization,ad hominem
+1777,faulty generalization,circular reasoning
+1778,faulty generalization,fallacy of logic
+1779,faulty generalization,fallacy of credibility
+1780,faulty generalization,fallacy of relevance
+1781,faulty generalization,ad hominem
+1782,faulty generalization,circular reasoning
+1783,faulty generalization,ad hominem
+1784,faulty generalization,equivocation
+1785,faulty generalization,fallacy of relevance
+1786,faulty generalization,circular reasoning
+1787,faulty generalization,ad hominem
+1788,faulty generalization,faulty generalization
+1789,faulty generalization,circular reasoning
+1790,faulty generalization,circular reasoning
+1791,faulty generalization,ad populum
+1792,faulty generalization,ad hominem
+1793,faulty generalization,ad hominem
+1794,faulty generalization,ad hominem
+1795,faulty generalization,circular reasoning
+1796,faulty generalization,circular reasoning
+1797,faulty generalization,fallacy of logic
+1798,faulty generalization,faulty generalization
+1799,faulty generalization,fallacy of logic
+1800,faulty generalization,fallacy of logic
+1801,faulty generalization,fallacy of logic
+1802,faulty generalization,circular reasoning
+1803,faulty generalization,fallacy of relevance
+1804,faulty generalization,fallacy of logic
+1805,faulty generalization,fallacy of logic
+1806,faulty generalization,ad hominem
+1807,faulty generalization,fallacy of relevance
+1808,faulty generalization,fallacy of logic
+1809,faulty generalization,ad hominem
+1810,faulty generalization,circular reasoning
+1811,faulty generalization,fallacy of logic
+1812,faulty generalization,circular reasoning
+1813,faulty generalization,ad hominem
+1814,faulty generalization,fallacy of relevance
+1815,faulty generalization,circular reasoning
+1816,faulty generalization,circular reasoning
+1817,faulty generalization,ad hominem
+1818,faulty generalization,circular reasoning
+1819,faulty generalization,ad hominem
+1820,faulty generalization,fallacy of extension
+1821,faulty generalization,circular reasoning
+1822,faulty generalization,circular reasoning
+1823,faulty generalization,circular reasoning
+1824,faulty generalization,circular reasoning
+1825,faulty generalization,circular reasoning
+1826,faulty generalization,circular reasoning
+1827,faulty generalization,circular reasoning
+1828,faulty generalization,fallacy of credibility
+1829,faulty generalization,circular reasoning
+1830,faulty generalization,circular reasoning
+1831,faulty generalization,ad populum
+1832,faulty generalization,circular reasoning
+1833,faulty generalization,fallacy of logic
+1834,faulty generalization,fallacy of relevance
+1835,faulty generalization,fallacy of logic
+1836,faulty generalization,circular reasoning
+1837,faulty generalization,fallacy of extension
+1838,faulty generalization,fallacy of logic
+1839,faulty generalization,circular reasoning
+1840,faulty generalization,fallacy of relevance
+1841,faulty generalization,faulty generalization
+1842,faulty generalization,circular reasoning
+1843,faulty generalization,fallacy of logic
+1844,faulty generalization,circular reasoning
+1845,faulty generalization,fallacy of logic
+1846,faulty generalization,fallacy of logic
+1847,faulty generalization,circular reasoning
+1848,faulty generalization,faulty generalization
+1849,faulty generalization,fallacy of extension
+1850,faulty generalization,circular reasoning
+1851,faulty generalization,circular reasoning
+1852,faulty generalization,fallacy of logic
+1853,faulty generalization,circular reasoning
+1854,faulty generalization,circular reasoning
+1855,faulty generalization,fallacy of logic
+1856,faulty generalization,circular reasoning
+1857,faulty generalization,circular reasoning
+1858,faulty generalization,fallacy of extension
+1859,faulty generalization,fallacy of logic
+1860,faulty generalization,fallacy of logic
+1861,faulty generalization,ad hominem
+1862,faulty generalization,fallacy of extension
+1863,faulty generalization,false causality
+1864,faulty generalization,fallacy of relevance
+1865,faulty generalization,fallacy of relevance
+1866,faulty generalization,faulty generalization
+1867,faulty generalization,fallacy of relevance
+1868,faulty generalization,false causality
+1869,faulty generalization,fallacy of relevance
+1870,faulty generalization,fallacy of relevance
+1871,faulty generalization,circular reasoning
+1872,faulty generalization,fallacy of relevance
+1873,faulty generalization,fallacy of logic
+1874,faulty generalization,circular reasoning
+1875,faulty generalization,fallacy of logic
+1876,faulty generalization,fallacy of extension
+1877,faulty generalization,fallacy of relevance
+1878,faulty generalization,equivocation
+1879,faulty generalization,false causality
+1880,faulty generalization,equivocation
+1881,faulty generalization,fallacy of logic
+1882,faulty generalization,fallacy of relevance
+1883,faulty generalization,fallacy of logic
+1884,faulty generalization,fallacy of logic
+1885,faulty generalization,fallacy of logic
+1886,faulty generalization,fallacy of extension
+1887,faulty generalization,fallacy of logic
+1888,faulty generalization,circular reasoning
+1889,faulty generalization,equivocation
+1890,faulty generalization,ad hominem
+1891,faulty generalization,equivocation
+1892,faulty generalization,false causality
+1893,faulty generalization,fallacy of logic
+1894,faulty generalization,fallacy of logic
+1895,faulty generalization,false causality
+1896,faulty generalization,fallacy of relevance
+1897,faulty generalization,fallacy of logic
+1898,faulty generalization,ad hominem
+1899,faulty generalization,fallacy of logic
+1900,faulty generalization,fallacy of extension
+1901,faulty generalization,fallacy of logic
+1902,faulty generalization,fallacy of relevance
+1903,faulty generalization,fallacy of logic
+1904,faulty generalization,circular reasoning
+1905,faulty generalization,false causality
+1906,faulty generalization,fallacy of relevance
+1907,faulty generalization,circular reasoning
+1908,faulty generalization,fallacy of relevance
+1909,faulty generalization,fallacy of logic
+1910,faulty generalization,equivocation
+1911,faulty generalization,fallacy of relevance
+1912,faulty generalization,false causality
+1913,faulty generalization,fallacy of extension
+1914,faulty generalization,equivocation
+1915,faulty generalization,fallacy of logic
+1916,faulty generalization,fallacy of logic
+1917,faulty generalization,fallacy of relevance
+1918,faulty generalization,equivocation
+1919,faulty generalization,fallacy of relevance
+1920,faulty generalization,circular reasoning
+1921,faulty generalization,ad hominem
+1922,faulty generalization,ad hominem
+1923,faulty generalization,fallacy of logic
+1924,faulty generalization,ad hominem
+1925,faulty generalization,fallacy of logic
+1926,faulty generalization,fallacy of logic
+1927,faulty generalization,fallacy of logic
+1928,faulty generalization,circular reasoning
+1929,faulty generalization,fallacy of extension
+1930,faulty generalization,fallacy of extension
+1931,faulty generalization,equivocation
+1932,faulty generalization,false causality
+1933,faulty generalization,equivocation
+1934,faulty generalization,equivocation
+1935,faulty generalization,circular reasoning
+1936,faulty generalization,fallacy of extension
+1937,faulty generalization,false causality
+1938,faulty generalization,false causality
+1939,faulty generalization,fallacy of logic
+1940,faulty generalization,false causality
+1941,faulty generalization,fallacy of logic
+1942,faulty generalization,circular reasoning
+1943,faulty generalization,fallacy of relevance
+1944,faulty generalization,ad hominem
+1945,faulty generalization,fallacy of relevance
+1946,faulty generalization,fallacy of relevance
+1947,faulty generalization,circular reasoning
+1948,faulty generalization,equivocation
+1949,faulty generalization,equivocation
+1950,faulty generalization,circular reasoning
+1951,faulty generalization,false causality
+1952,faulty generalization,fallacy of relevance
+1953,faulty generalization,circular reasoning
+1954,faulty generalization,fallacy of logic
+1955,faulty generalization,circular reasoning
+1956,faulty generalization,circular reasoning
+1957,faulty generalization,circular reasoning
+1958,faulty generalization,fallacy of credibility
+1959,faulty generalization,fallacy of logic
+1960,faulty generalization,equivocation
+1961,faulty generalization,equivocation
+1962,faulty generalization,equivocation
+1963,faulty generalization,equivocation
+1964,faulty generalization,false causality
+1965,faulty generalization,ad hominem
+1966,faulty generalization,fallacy of extension
+1967,faulty generalization,circular reasoning
+1968,faulty generalization,fallacy of relevance
+1969,faulty generalization,false causality
+1970,faulty generalization,equivocation
+1971,faulty generalization,fallacy of logic
+1972,faulty generalization,circular reasoning
+1973,faulty generalization,equivocation
+1974,faulty generalization,circular reasoning
+1975,faulty generalization,ad hominem
+1976,faulty generalization,circular reasoning
+1977,faulty generalization,fallacy of relevance
+1978,faulty generalization,circular reasoning
+1979,faulty generalization,circular reasoning
+1980,faulty generalization,ad hominem
+1981,faulty generalization,equivocation
+1982,faulty generalization,equivocation
+1983,faulty generalization,fallacy of relevance
+1984,faulty generalization,fallacy of logic
+1985,faulty generalization,ad hominem
+1986,faulty generalization,fallacy of extension
+1987,faulty generalization,fallacy of logic
+1988,faulty generalization,circular reasoning
+1989,faulty generalization,equivocation
+1990,faulty generalization,circular reasoning
+1991,faulty generalization,fallacy of logic
+1992,faulty generalization,fallacy of extension
+1993,faulty generalization,equivocation
+1994,faulty generalization,fallacy of logic
+1995,faulty generalization,circular reasoning
+1996,faulty generalization,ad hominem
+1997,faulty generalization,fallacy of logic
+1998,faulty generalization,fallacy of logic
+1999,faulty generalization,circular reasoning
+2000,faulty generalization,fallacy of logic
+2001,faulty generalization,fallacy of logic
+2002,faulty generalization,fallacy of logic
+2003,faulty generalization,circular reasoning
+2004,faulty generalization,equivocation
+2005,faulty generalization,fallacy of relevance
+2006,faulty generalization,equivocation
+2007,faulty generalization,ad hominem
+2008,faulty generalization,fallacy of logic
+2009,faulty generalization,fallacy of extension
+2010,faulty generalization,circular reasoning
+2011,faulty generalization,circular reasoning
+2012,faulty generalization,circular reasoning
+2013,faulty generalization,circular reasoning
+2014,faulty generalization,circular reasoning
+2015,faulty generalization,circular reasoning
+2016,faulty generalization,fallacy of logic
+2017,faulty generalization,fallacy of logic
+2018,faulty generalization,fallacy of logic
+2019,faulty generalization,circular reasoning
+2020,faulty generalization,false causality
+2021,faulty generalization,circular reasoning
+2022,faulty generalization,fallacy of relevance
+2023,faulty generalization,circular reasoning
+2024,faulty generalization,ad hominem
+2025,faulty generalization,circular reasoning
+2026,faulty generalization,circular reasoning
+2027,faulty generalization,circular reasoning
+2028,faulty generalization,equivocation
+2029,faulty generalization,false causality
+2030,faulty generalization,ad hominem
+2031,faulty generalization,fallacy of logic
+2032,faulty generalization,circular reasoning
+2033,faulty generalization,fallacy of credibility
+2034,faulty generalization,equivocation
+2035,faulty generalization,ad hominem
+2036,faulty generalization,circular reasoning
+2037,faulty generalization,fallacy of logic
+2038,faulty generalization,circular reasoning
+2039,faulty generalization,fallacy of logic
+2040,faulty generalization,faulty generalization
+2041,faulty generalization,fallacy of logic
+2042,faulty generalization,fallacy of logic
+2043,faulty generalization,fallacy of logic
+2044,faulty generalization,circular reasoning
+2045,faulty generalization,circular reasoning
+2046,faulty generalization,circular reasoning
+2047,faulty generalization,circular reasoning
+2048,faulty generalization,ad hominem
+2049,faulty generalization,circular reasoning
+2050,faulty generalization,circular reasoning
+2051,faulty generalization,fallacy of logic
+2052,faulty generalization,circular reasoning
+2053,faulty generalization,circular reasoning
+2054,faulty generalization,circular reasoning
+2055,faulty generalization,ad hominem
+2056,faulty generalization,fallacy of logic
+2057,faulty generalization,fallacy of logic
+2058,faulty generalization,fallacy of logic
+2059,faulty generalization,fallacy of logic
+2060,faulty generalization,circular reasoning
+2061,faulty generalization,equivocation
+2062,faulty generalization,fallacy of relevance
+2063,faulty generalization,fallacy of logic
+2064,faulty generalization,equivocation
+2065,faulty generalization,circular reasoning
+2066,faulty generalization,fallacy of logic
+2067,faulty generalization,fallacy of logic
+2068,faulty generalization,fallacy of relevance
+2069,faulty generalization,ad hominem
+2070,faulty generalization,fallacy of extension
+2071,faulty generalization,circular reasoning
+2072,faulty generalization,ad populum
+2073,faulty generalization,fallacy of relevance
+2074,faulty generalization,ad hominem
+2075,faulty generalization,fallacy of relevance
+2076,faulty generalization,circular reasoning
+2077,faulty generalization,fallacy of logic
+2078,faulty generalization,circular reasoning
+2079,intentional,circular reasoning
+2080,intentional,fallacy of logic
+2081,intentional,fallacy of logic
+2082,intentional,equivocation
+2083,intentional,fallacy of logic
+2084,intentional,fallacy of relevance
+2085,intentional,fallacy of credibility
+2086,intentional,fallacy of relevance
+2087,intentional,fallacy of extension
+2088,intentional,fallacy of relevance
+2089,intentional,fallacy of relevance
+2090,intentional,fallacy of logic
+2091,intentional,fallacy of extension
+2092,intentional,ad hominem
+2093,intentional,fallacy of relevance
+2094,intentional,fallacy of logic
+2095,intentional,fallacy of logic
+2096,intentional,circular reasoning
+2097,intentional,fallacy of relevance
+2098,intentional,fallacy of relevance
+2099,intentional,fallacy of logic
+2100,intentional,fallacy of logic
+2101,intentional,fallacy of relevance
+2102,intentional,fallacy of logic
+2103,intentional,circular reasoning
+2104,intentional,ad hominem
+2105,intentional,fallacy of relevance
+2106,intentional,fallacy of logic
+2107,intentional,false causality
+2108,intentional,fallacy of relevance
+2109,intentional,fallacy of credibility
+2110,intentional,false causality
+2111,intentional,fallacy of relevance
+2112,intentional,equivocation
+2113,intentional,circular reasoning
+2114,intentional,fallacy of logic
+2115,intentional,fallacy of relevance
+2116,intentional,fallacy of relevance
+2117,intentional,fallacy of logic
+2118,intentional,circular reasoning
+2119,intentional,false causality
+2120,intentional,equivocation
+2121,intentional,fallacy of relevance
+2122,intentional,equivocation
+2123,intentional,fallacy of logic
+2124,intentional,false causality
+2125,intentional,circular reasoning
+2126,intentional,fallacy of logic
+2127,intentional,false causality
+2128,intentional,circular reasoning
+2129,intentional,fallacy of logic
+2130,intentional,circular reasoning
+2131,intentional,circular reasoning
+2132,intentional,circular reasoning
+2133,intentional,circular reasoning
+2134,intentional,circular reasoning
+2135,intentional,fallacy of logic
+2136,intentional,fallacy of logic
+2137,intentional,fallacy of relevance
+2138,intentional,fallacy of logic
+2139,intentional,circular reasoning
+2140,intentional,circular reasoning
+2141,intentional,circular reasoning
+2142,intentional,circular reasoning
+2143,intentional,fallacy of logic
+2144,intentional,fallacy of extension
+2145,intentional,ad hominem
+2146,intentional,equivocation
+2147,intentional,fallacy of relevance
+2148,intentional,false causality
+2149,intentional,ad hominem
+2150,intentional,fallacy of logic
+2151,intentional,circular reasoning
+2152,intentional,fallacy of relevance
+2153,intentional,fallacy of relevance
+2154,intentional,equivocation
+2155,intentional,circular reasoning
+2156,intentional,fallacy of logic
+2157,intentional,ad hominem
+2158,intentional,fallacy of logic
+2159,intentional,circular reasoning
+2160,intentional,ad hominem
+2161,intentional,fallacy of logic
+2162,intentional,fallacy of extension
+2163,intentional,fallacy of logic
+2164,intentional,fallacy of logic
+2165,intentional,fallacy of relevance
+2166,intentional,fallacy of logic
+2167,intentional,fallacy of logic
+2168,intentional,fallacy of relevance
+2169,intentional,fallacy of relevance
+2170,intentional,fallacy of relevance
+2171,intentional,ad hominem
+2172,intentional,fallacy of logic
+2173,intentional,fallacy of extension
+2174,intentional,fallacy of relevance
+2175,intentional,fallacy of relevance
+2176,intentional,ad hominem
+2177,intentional,fallacy of relevance
+2178,intentional,fallacy of relevance
+2179,intentional,fallacy of logic
+2180,intentional,fallacy of relevance
+2181,intentional,fallacy of logic
+2182,intentional,fallacy of logic
+2183,intentional,fallacy of logic
+2184,intentional,false causality
+2185,intentional,fallacy of logic
+2186,intentional,fallacy of logic
+2187,intentional,fallacy of logic
+2188,intentional,equivocation
+2189,intentional,fallacy of logic
+2190,intentional,equivocation
+2191,intentional,fallacy of logic
+2192,intentional,fallacy of relevance
+2193,intentional,fallacy of logic
+2194,intentional,fallacy of logic
+2195,intentional,fallacy of relevance
+2196,intentional,fallacy of logic
+2197,intentional,fallacy of logic
+2198,intentional,fallacy of logic
+2199,intentional,fallacy of relevance
+2200,intentional,fallacy of logic
+2201,intentional,ad hominem
+2202,intentional,fallacy of logic
+2203,intentional,fallacy of logic
+2204,intentional,fallacy of relevance
+2205,intentional,fallacy of relevance
+2206,intentional,fallacy of logic
+2207,intentional,fallacy of relevance
+2208,intentional,fallacy of logic
+2209,intentional,fallacy of relevance
