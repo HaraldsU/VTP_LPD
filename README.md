@@ -77,7 +77,32 @@ Prediction: [MSK1] is true because of [MSK2]. [MSK2] is true because of [MSK1].
 ```
 
 ### Mūsu rezultāti:
-...
+### nli-distilroberta-base modeļa rezultāti:
+```txt
+0
+"                        precision    recall  f1-score   support
+
+            ad hominem       0.30      0.23      0.26       264
+            ad populum       0.87      0.13      0.23       207
+     appeal to emotion       0.00      0.00      0.00       156
+    circular reasoning       0.14      0.60      0.23       159
+          equivocation       0.02      0.11      0.04        47
+fallacy of credibility       0.42      0.08      0.13       126
+  fallacy of extension       0.10      0.07      0.08       115
+      fallacy of logic       0.06      0.21      0.10       144
+  fallacy of relevance       0.08      0.19      0.11       147
+       false causality       0.31      0.24      0.27       189
+         false dilemma       0.67      0.02      0.03       126
+ faulty generalization       0.48      0.03      0.05       399
+           intentional       0.00      0.00      0.00       131
+
+              accuracy                           0.15      2210
+             macro avg       0.27      0.15      0.12      2210
+          weighted avg       0.32      0.15      0.13      2210
+"
+```
+![Heatmap](/Results/nli-distilroberta-base/heatmap.png)
+
 
 ## Prezentācija un atbildes uz jautājumiem (0-2 punkti)
 ### Links uz prezentāciju:
